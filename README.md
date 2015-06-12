@@ -1,8 +1,10 @@
-# Best Software
+# Sunpech's Best Software List
 
-A list of the best software for Mac, Windows, and Software Development.
+A list of the best software for Mac, Windows, Ubuntu Linux, and Software Development. Whenever I do a fresh install of a new operating system, I'll go through this list and choose what to install.
 
 ## For Mac OS X
+
+![OS X](/images/osx_100px.png)
 
 I use Mac most of the time now, so this list is rather extensive.
 
@@ -13,7 +15,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Google Drive](https://drive.google.com/)
 * [OneDrive](https://onedrive.live.com/?invref=e8e0c21396a27dc4&invsrc=90)
 
-#### Browser Extensions
+#### Web Browser Extensions
 
 * [Buffer App](https://buffer.com/extras)
 * [Ghostery](https://www.ghostery.com/en/)
@@ -31,20 +33,11 @@ I use Mac most of the time now, so this list is rather extensive.
 
 #### Miscellaneous and Utilities
 
-* [Alfred 2](http://www.alfredapp.com/)
 * [Android File Transfer](http://www.android.com/filetransfer/)
-* [Better Touch Tool](http://www.bettertouchtool.net/)
-* [Degrees Weather](https://itunes.apple.com/us/app/degrees-weather/id430173763?mt=12)
-* [F.lux](http://stereopsis.com/flux/)
 * [Filezilla](http://filezilla-project.org/)
-* [Gimp](http://www.gimp.org/)
-* [Google Photos](https://photos.google.com/apps)
-* [Picasa](http://picasa.google.com/)
 * [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html)
 * [Teamviewer](http://www.teamviewer.com/en/index.aspx)
 * [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12)
-* [Skitch](https://evernote.com/skitch/)
-* [Slack](https://slack.com/)
 * [Tunnel Bear](http://www.tunnelbear.com/)
 * [Trim Enabler](http://www.groths.org/)
 * [World Community Grid](http://www.worldcommunitygrid.org/)
@@ -52,9 +45,26 @@ I use Mac most of the time now, so this list is rather extensive.
 #### Music and Video
 
 * [Handbrake](http://handbrake.fr/)
+* [Plex Media Server](https://plex.tv/)
 * [Spotify](http://www.spotify.com/)
 * [Tagger](http://www.macupdate.com/app/mac/41285/tagger)
 * [VLC Media Player](http://www.videolan.org/vlc/)
+
+#### Pictures and Images
+
+* [Gimp](http://www.gimp.org/)
+* [Google Photos](https://photos.google.com/apps)
+* [Picasa](http://picasa.google.com/)
+
+#### Productivity
+
+* [Alfred 2](http://www.alfredapp.com/)
+* [Better Touch Tool](http://www.bettertouchtool.net/)
+* [Degrees Weather](https://itunes.apple.com/us/app/degrees-weather/id430173763?mt=12)
+* [F.lux](http://stereopsis.com/flux/)
+* [Glances](https://github.com/nicolargo/glances)
+* [Skitch](https://evernote.com/skitch/)
+* [Slack](https://slack.com/)
 
 #### Best Applications to Buy
 
@@ -70,6 +80,8 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ## For Windows OS
 
+![OS X](/images/windows_100px.png)
+
 I don't use Windows OS much anymore, so this list will be shorter, as many of the software available for Mac is also available on Windows.
 
 * [7 Zip](http://www.7-zip.org/)
@@ -82,7 +94,9 @@ I don't use Windows OS much anymore, so this list will be shorter, as many of th
 
 ## For Software Development
 
-This list includes development tools for both Mac and Windows.
+![OS X](/images/software_development_100px.png)
+
+This list includes development tools for both Mac and Windows. Also see [my dotfiles](https://github.com/sunpech/dotfiles).
 
 #### Coding
 
@@ -111,19 +125,47 @@ This list includes development tools for both Mac and Windows.
 * [Homebrew](http://brew.sh/)
 * [iTerm2](http://www.iterm2.com/)
 * [iTerm2 Color Schemes](http://iterm2colorschemes.com/)
+* [rbenv](https://github.com/sstephenson/rbenv)
 
 #### Version Control
 
 * [git](http://git-scm.com/) - Better to install via Homebrew
+* [Github for Mac](https://mac.github.com/)
 * [SourceTree](http://www.sourcetreeapp.com/)
 * [SmartGit](http://www.syntevo.com/smartgithg/index.html)
 
 #### Websites and Services
 
 * [BitBucket](http://bitbucket.org/)
+* [CodeAnywhere](https://codeanywhere.com)
 * [Dreamspark](https://www.dreamspark.com/)
 * [Github](https://github.com/)
 * [Nitrous.IO](https://www.nitrous.io/join/eS1vRwA3uVY?utm_source=nitrous.io&utm_medium=copypaste&utm_campaign=referral)
 * [Scott Hanselman's 2014 Ultimate Developer Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 * [Visual Studio color schemes](http://studiostyl.es/)
 * [Visual Studio wallpapers](http://visualstudiowallpapers.com/)
+
+## For Ubuntu Linux
+
+![OS X](/images/xubuntu_100px.png)
+
+My current favorite flavor of Linux is [Xubuntu](http://xubuntu.org/).
+#### exFAT support
+
+I format my external hard drives to [exFAT](https://en.wikipedia.org/wiki/ExFAT) so I can read/write to them from any operating system (OSX, Win, Linux).
+
+```
+sudo apt-get install exfat-utils exfat-fuse
+```
+
+#### BOINC
+
+```
+sudo apt-get install boinc-client boinc-manager
+```
+
+#### Formatting drives (gparted)
+
+```
+sudo apt-get install gparted
+```
