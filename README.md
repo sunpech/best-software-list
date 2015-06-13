@@ -170,3 +170,11 @@ sudo apt-get install boinc-client boinc-manager
 ```
 sudo apt-get install gparted
 ```
+
+#### Install latest git
+
+```
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt-get update
+sudo apt-get install git
+```
