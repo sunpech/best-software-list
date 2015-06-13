@@ -45,6 +45,7 @@ I use Mac most of the time now, so this list is rather extensive.
 #### Music and Video
 
 * [Handbrake](http://handbrake.fr/) - Edit/convert videos.
+* [Livestreamer](https://github.com/chrippa/livestreamer)
 * [Plex Media Server](https://plex.tv/) - Media server for your home videos/photos.
 * [Spotify](http://www.spotify.com/) - Music player.
 * [Tagger](http://www.macupdate.com/app/mac/41285/tagger) - Batch update your ID3 tags in your music collection (mp3s).
@@ -168,4 +169,12 @@ sudo apt-get install boinc-client boinc-manager
 
 ```
 sudo apt-get install gparted
+```
+
+#### Install latest git
+
+```
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt-get update
+sudo apt-get install git
 ```
