@@ -81,7 +81,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ## For Windows OS
 
-![OS X](/images/windows_100px.png)
+![Windows OS](/images/windows_100px.png)
 
 I don't use Windows OS much anymore, so this list will be shorter, as many of the software available for Mac is also available on Windows.
 
@@ -95,7 +95,7 @@ I don't use Windows OS much anymore, so this list will be shorter, as many of th
 
 ## For Software Development
 
-![OS X](/images/software_development_100px.png)
+![Software Development](/images/software_development_100px.png)
 
 This list includes development tools for both Mac and Windows. Also see [my dotfiles](https://github.com/sunpech/dotfiles).
 
@@ -148,7 +148,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 ## For Ubuntu Linux
 
-![OS X](/images/xubuntu_100px.png)
+![XUbuntu](/images/xubuntu_100px.png)
 
 My current favorite flavor of Linux is [Xubuntu](http://xubuntu.org/).
 #### exFAT support
