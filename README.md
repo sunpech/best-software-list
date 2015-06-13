@@ -45,6 +45,7 @@ I use Mac most of the time now, so this list is rather extensive.
 #### Music and Video
 
 * [Handbrake](http://handbrake.fr/)
+* [Livestreamer](https://github.com/chrippa/livestreamer)
 * [Plex Media Server](https://plex.tv/)
 * [Spotify](http://www.spotify.com/)
 * [Tagger](http://www.macupdate.com/app/mac/41285/tagger)
