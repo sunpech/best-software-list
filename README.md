@@ -38,6 +38,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Clone hard drives.
 * [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 * [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) - Decompress zip/rar files.
+* [Seil](https://pqrs.org/osx/karabiner/seil.html.en) - Utility to remap Caps lock and other keys.
 * [Tunnel Bear](http://www.tunnelbear.com/) - VPN software.
 * [Trim Enabler](http://www.groths.org/) - Enables TRIM on 3rd party SSDs.
 * [World Community Grid](http://www.worldcommunitygrid.org/) - Grid computing.
