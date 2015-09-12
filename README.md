@@ -21,7 +21,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Ghostery](https://www.ghostery.com/en/) - To protect your privacy.
 * [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.
 * [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
-* [uBlock](https://www.ublock.org/) - Block unwanted ads in your browser.
+* uBlock Origin ([Firefox](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/) & [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)) - Block unwanted ads in your browser.
 
 #### Internet
 
