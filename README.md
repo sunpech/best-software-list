@@ -152,7 +152,8 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 ![XUbuntu](/images/xubuntu_100px.png)
 
-My current favorite flavor of Linux is [Xubuntu](http://xubuntu.org/).
+My current favorite flavor of Linux is [Xubuntu](http://xubuntu.org/). I'm currently re-exploring [Crunchbang++](https://crunchbangplusplus.org/).
+
 #### exFAT support
 
 I format my external hard drives to [exFAT](https://en.wikipedia.org/wiki/ExFAT) so I can read/write to them from any operating system (OSX, Win, Linux).
