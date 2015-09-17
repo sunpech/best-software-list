@@ -63,7 +63,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 * [Alfred 2](http://www.alfredapp.com/) - Type what you need or what you want to do.
 * [Better Touch Tool](http://www.bettertouchtool.net/) - Custom map your keys.
-* [Degrees Weather](https://itunes.apple.com/us/app/degrees-weather/id430173763?mt=12) - Weather in your toolbar.
+* [Forecast Bar](https://itunes.apple.com/us/app/forecast-bar-weather-powered/id982710545) - Weather in taskbar.
 * [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 * [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
 * [Skitch](https://evernote.com/skitch/) - Edit your screenshot images.
