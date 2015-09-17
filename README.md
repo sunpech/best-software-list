@@ -2,7 +2,7 @@
 
 A list of the best software for Mac, Windows, Ubuntu Linux, and Software Development. Whenever I do a fresh install of a new operating system, I'll go through this list and choose what to install.
 
-## For Mac OS X
+## Mac OS X
 
 ![OS X](/images/osx_100px.png)
 
@@ -81,7 +81,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Stock+ Pro](https://itunes.apple.com/us/app/stock-+-pro/id534067900?mt=12) - Monitor stocks.
 * [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Resize your windows without having to click on corners.
 
-## For Windows OS
+## Windows OS
 
 ![Windows OS](/images/windows_100px.png)
 
@@ -95,13 +95,13 @@ I don't use Windows OS much anymore, so this list will be shorter, as many of th
 * [Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653) - Monitor your system processes.
 * [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.
 
-## For Software Development
+## Software Development
 
 ![Software Development](/images/software_development_100px.png)
 
 This list includes development tools for both Mac and Windows. Also see [my dotfiles](https://github.com/sunpech/dotfiles).
 
-#### Coding
+#### Coding and IDE
 
 * [Android Studio](http://developer.android.com/sdk/installing/studio.html)
 * [Atom.io](http://atom.io/) - Text editor that is community driven.
@@ -148,7 +148,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [Visual Studio color schemes](http://studiostyl.es/)
 * [Visual Studio wallpapers](http://visualstudiowallpapers.com/)
 
-## For Ubuntu Linux
+## Ubuntu Linux
 
 ![XUbuntu](/images/xubuntu_100px.png)
 
