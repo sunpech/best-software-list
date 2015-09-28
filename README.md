@@ -154,6 +154,10 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 My current favorite flavor of Linux is [Xubuntu](http://xubuntu.org/). I'm currently re-exploring [Crunchbang++](https://crunchbangplusplus.org/).
 
+#### Create a bootable USB
+* [How to create a bootable USB stick on OS X](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx)
+* [How to create a bootable USB stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows)
+
 #### exFAT support
 
 I format my external hard drives to [exFAT](https://en.wikipedia.org/wiki/ExFAT) so I can read/write to them from any operating system (OSX, Win, Linux).
