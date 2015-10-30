@@ -40,6 +40,7 @@ I use Mac most of the time now, so this list is rather extensive.
 #### Miscellaneous and Utilities
 
 * [Android File Transfer](http://www.android.com/filetransfer/) - Transfer files via USB to your Android device.
+* [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
 * [Filezilla](http://filezilla-project.org/) - SFTP client.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer.
 * [Seil](https://pqrs.org/osx/karabiner/seil.html.en) - Utility to remap Caps lock and other keys.
@@ -110,7 +111,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 #### Coding and IDE
 
-* [Android Studio](http://developer.android.com/sdk/installing/studio.html)
+* [Android Studio](http://developer.android.com/sdk/index.html) - Android SDK and official IDE.
 * [Atom.io](http://atom.io/) - Text editor that is community driven.
 * [DiffMerge](http://www.sourcegear.com/diffmerge/) - Compare your files/directories.
 * [Eclipse](http://www.eclipse.org/) - Java IDE.
