@@ -21,6 +21,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 #### Web Browser Extensions
 
+* [1Password](https://agilebits.com/onepassword/extensions) - Password Manager and Secure Wallet.
 * [Buffer App](https://buffer.com/extras) - For managing your social media posts.
 * [Ghostery](https://www.ghostery.com/en/) - To protect your privacy.
 * [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.
