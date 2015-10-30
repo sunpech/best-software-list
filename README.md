@@ -78,7 +78,7 @@ I use Mac most of the time now, so this list is rather extensive.
 #### Best Applications to Buy
 
 * [1Password](https://agilebits.com/onepassword) - Password Manager and Secure Wallet.
-* [Adobe Createive Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
+* [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
 * [Airmail 2](https://itunes.apple.com/us/app/airmail-2.1/id918858936?mt=12) - Mail client that's better than default.
 * [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
 * [Forecast Bar](https://itunes.apple.com/us/app/forecast-bar-weather-powered/id982710545) - Weather in taskbar.
