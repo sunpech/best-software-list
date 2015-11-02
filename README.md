@@ -43,6 +43,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
 * [Filezilla](http://filezilla-project.org/) - SFTP client.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer.
+* [GPG Suite](https://gpgtools.org/) - Secure way to encrypt communication.
 * [Seil](https://pqrs.org/osx/karabiner/seil.html.en) - Utility to remap Caps lock and other keys.
 * [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Clone hard drives.
 * [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
@@ -54,7 +55,7 @@ I use Mac most of the time now, so this list is rather extensive.
 #### Music and Video
 
 * [Handbrake](http://handbrake.fr/) - Edit/convert videos.
-* [Livestreamer](https://github.com/chrippa/livestreamer)
+* [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice.
 * [Plex Media Server](https://plex.tv/) - Media server for your home videos/photos.
 * [Spotify](http://www.spotify.com/) - Music player.
 * [Tagger](http://www.macupdate.com/app/mac/41285/tagger) - Batch update your ID3 tags in your music collection (mp3s).
@@ -141,9 +142,9 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 #### Version Control
 
 * [git](http://git-scm.com/) - Better to install via Homebrew
-* [Github for Mac](https://mac.github.com/)
+* [Github for Mac](https://mac.github.com/) - Github for Desktop.
 * [SourceTree](http://www.sourcetreeapp.com/) - My favorite git GUI.
-* [SmartGit](http://www.syntevo.com/smartgithg/index.html)
+* [SmartGit](http://www.syntevo.com/smartgithg/index.html) - *I don't use this anymore....*
 
 #### Websites and Services
 
