@@ -1,6 +1,6 @@
 # Sunpech's Best Software List
 
-A list of the best software for Mac, Windows, Ubuntu Linux, and Software Development. Whenever I do a fresh install of a new operating system, I'll go through this list and choose what to install. Unless noted, all software are free.
+A list of the best software for Mac, Windows, Ubuntu Linux, Android, and Software Development. Whenever I do a fresh install of a new operating system, I'll go through this list and choose what to install. Unless noted, all software are free.
 
 ## Mac OS X
 
@@ -194,3 +194,106 @@ sudo add-apt-repository ppa:git-core/ppa
 sudo apt-get update
 sudo apt-get install git
 ```
+
+## Android
+
+![Android](/images/android_100px.png)
+
+I use Android as my primary mobile OS on all my devices.
+
+* [Factory Images for Nexus Devices](https://developers.google.com/android/nexus/images?hl=en)
+
+#### Audio
+
+* [Amazon Music](https://play.google.com/store/apps/details?id=com.amazon.mp3)
+* [Audible](https://play.google.com/store/apps/details?id=com.audible.application)
+* [BeyondPod](https://play.google.com/store/apps/details?id=mobi.beyondpod)
+* [Google Music](https://play.google.com/store/apps/details?id=com.google.android.music)
+* [Songza](https://play.google.com/store/apps/details?id=com.ad60.songza)
+* [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
+* [Soundhound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium)
+* [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music)
+
+#### Chat
+
+* [Facebook Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
+* [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice)
+* [Hangouts](https://play.google.com/store/apps/details?id=com.google.android.talk)
+* [Line](https://play.google.com/store/apps/details?id=jp.naver.line.android)
+
+#### Cloud
+
+* [Copy](https://play.google.com/store/apps/details?id=com.copy)
+* [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)
+* [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
+
+#### Miscellaneous
+
+* [IMDB](https://play.google.com/store/apps/details?id=com.imdb.mobile)
+* [Github](https://play.google.com/store/apps/details?id=com.github.mobile)
+* [Helium](https://play.google.com/store/apps/details?id=com.koushikdutta.backup) - Backup, restore, and sync your apps.
+* [OpenSignal](https://play.google.com/store/apps/details?id=com.staircase3.opensignal) - 3G/4G WiFi Map
+* [Speedtest](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
+* [Wi-fi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)
+* [wp clock](https://play.google.com/store/apps/details?id=com.tomanyz.lockWatchLight)
+
+#### Photography
+
+* [Camera Awesome](https://play.google.com/store/apps/details?id=com.smugmug.android.cameraawesome)
+* [GPS Logger](https://play.google.com/store/apps/details?id=com.mendhak.gpslogger)
+* [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
+
+#### Reading
+
+* [Amazon Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle)
+* [CNN](https://play.google.com/store/apps/details?id=com.cnn.mobile.android.phone)
+* [Chrome browser](https://play.google.com/store/apps/details?id=com.android.chrome)
+* [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+* [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer)
+
+#### Shopping
+
+* [Amazon](https://play.google.com/store/apps/details?id=com.amazon.pricecheck)
+* [Android Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
+* [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
+* [PayPal](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)
+
+#### Social Network
+
+* [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
+* [Facebook Pages](https://play.google.com/store/apps/details?id=com.facebook.pages.app)
+* [Google Plus](https://play.google.com/store/apps/details?id=com.google.android.apps.plus)
+* [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
+
+#### Travel
+
+* [Comic Con](https://play.google.com/store/apps/details?id=com.elementalbits.comiccon)
+* [Eventbrite](https://play.google.com/store/apps/details?id=com.eventbrite.attendee)
+* [Foursquare](https://play.google.com/store/apps/details?id=com.joelapenna.foursquared)
+* [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+* [Lyft](https://play.google.com/store/apps/details?id=me.lyft.android)
+* [Meetup](https://play.google.com/store/apps/details?id=com.meetup)
+* [Park Chicago](https://play.google.com/store/apps/details?id=com.passportparking.mobile.parkchicago)
+* [Parking Panda](https://play.google.com/store/apps/details?id=com.parkingpanda.mobile)
+* [Southwest](https://play.google.com/store/apps/details?id=com.southwestairlines.mobile)
+* [Swarm](https://play.google.com/store/apps/details?id=com.foursquare.robin)
+* [Uber](https://play.google.com/store/apps/details?id=com.ubercab)
+* [Waze](https://play.google.com/store/apps/details?id=com.waze)
+* [Yelp](https://play.google.com/store/apps/details?id=com.yelp.android)
+
+#### Utility
+
+* [Alarm Clock Plus](https://play.google.com/store/apps/details?id=com.vp.alarmClockPlusV2)
+* [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage)
+* [ROM Manager](https://play.google.com/store/apps/details?id=com.koushikdutta.rommanager.license)
+* [Swiftkey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)
+* [Tiny Flashlight](https://play.google.com/store/apps/details?id=com.devuni.flashlight)
+
+#### Video
+
+* [Allcast](https://play.google.com/store/apps/details?id=com.koushikdutta.cast)
+* [Chromecast](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
+* [Plex](https://play.google.com/store/apps/details?id=com.plexapp.android)
+* [Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
+* [youTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+* [youTube Gaming](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.gaming)
