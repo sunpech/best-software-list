@@ -1,6 +1,6 @@
 # Sunpech's Best Software List
 
-A list of the best software for Mac, Windows, Ubuntu Linux, and Software Development. Whenever I do a fresh install of a new operating system, I'll go through this list and choose what to install.
+A list of the best software for Mac, Windows, Ubuntu Linux, and Software Development. Whenever I do a fresh install of a new operating system, I'll go through this list and choose what to install. Unless noted, all software are free.
 
 ## Mac OS X
 
