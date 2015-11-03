@@ -229,9 +229,9 @@ I use Android as my primary mobile OS on all my devices.
 
 #### Miscellaneous
 
-* [IMDB](https://play.google.com/store/apps/details?id=com.imdb.mobile)
 * [Github](https://play.google.com/store/apps/details?id=com.github.mobile)
 * [Helium](https://play.google.com/store/apps/details?id=com.koushikdutta.backup) - Backup, restore, and sync your apps.
+* [IMDB](https://play.google.com/store/apps/details?id=com.imdb.mobile)
 * [OpenSignal](https://play.google.com/store/apps/details?id=com.staircase3.opensignal) - 3G/4G WiFi Map
 * [Speedtest](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
 * [Wi-fi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)
@@ -246,8 +246,8 @@ I use Android as my primary mobile OS on all my devices.
 #### Reading
 
 * [Amazon Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle)
-* [CNN](https://play.google.com/store/apps/details?id=com.cnn.mobile.android.phone)
 * [Chrome browser](https://play.google.com/store/apps/details?id=com.android.chrome)
+* [CNN](https://play.google.com/store/apps/details?id=com.cnn.mobile.android.phone)
 * [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 * [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer)
 
