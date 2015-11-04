@@ -8,11 +8,11 @@ A list of the best software for Mac, Windows, Ubuntu Linux, Android, and Softwar
 
 I use Mac most of the time now, so this list is rather extensive.
 
-#### Create a bootable USB
+### Create a bootable USB
 
 * [How to make you own bootable OS X 10.11 El Capitan USB install drive](http://arstechnica.com/apple/2015/09/how-to-make-your-own-bootable-os-x-10-11-el-capitan-usb-install-drive/)
 
-#### Cloud Storage, Sync, and Backup
+### Cloud Storage, Sync, and Backup
 
 * [Copy.com](https://copy.com/?r=1u9vhV) - My favorite cloud storage service.
 * [Dropbox](https://db.tt/pHCTifn) - Service that keeps your files safe, synced, and easy to share.
@@ -20,7 +20,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Google Drive](https://drive.google.com/) - Google's cloud service tied to your Gmail.
 * [OneDrive](https://onedrive.live.com/?invref=e8e0c21396a27dc4&invsrc=90) - Microsoft's cloud service.
 
-#### Web Browser Extensions
+### Web Browser Extensions
 
 * [1Password](https://agilebits.com/onepassword/extensions) - Password Manager and Secure Wallet.
 * [Buffer App](https://buffer.com/extras) - For managing your social media posts.
@@ -29,7 +29,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
 * uBlock Origin ([Firefox](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/) & [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)) - Block unwanted ads in your browser.
 
-#### Internet
+### Internet
 
 * [Chrome](http://www.google.com/chrome) - Google web browser.
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/) - My second favorite browser.
@@ -37,7 +37,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Tweetdeck](https://about.twitter.com/products/tweetdeck) - Twitter client with columns.
 * [Twitter client](https://itunes.apple.com/us/app/twitter/id409789998?mt=12) - Default Twitter client.
 
-#### Miscellaneous and Utilities
+### Miscellaneous and Utilities
 
 * [Android File Transfer](http://www.android.com/filetransfer/) - Transfer files via USB to your Android device.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
@@ -52,7 +52,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) - Decompress zip/rar files.
 * [World Community Grid](http://www.worldcommunitygrid.org/) - Grid computing.
 
-#### Music and Video
+### Music and Video
 
 * [Handbrake](http://handbrake.fr/) - Edit/convert videos.
 * [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice.
@@ -61,13 +61,13 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Tagger](http://www.macupdate.com/app/mac/41285/tagger) - Batch update your ID3 tags in your music collection (mp3s).
 * [VLC Media Player](http://www.videolan.org/vlc/) - The best video/media player for any OS.
 
-#### Pictures and Images
+### Pictures and Images
 
 * [Gimp](http://www.gimp.org/) - Edit pictures, a Photoshop-like program that's free.
 * [Google Photos](https://photos.google.com/apps) - Google's photo storage.
 * [Picasa](http://picasa.google.com/) - Google's older photo storage service.
 
-#### Productivity
+### Productivity
 
 * [Alfred 2](http://www.alfredapp.com/) - Type what you need or what you want to do.
 * [Better Touch Tool](http://www.bettertouchtool.net/) - Custom map your keys.
@@ -76,7 +76,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Skitch](https://evernote.com/skitch/) - Edit your screenshot images.
 * [Slack](https://slack.com/) - Collaboration software for teams.
 
-#### Best Applications to Buy
+### Best Applications to Buy
 
 * [1Password](https://agilebits.com/onepassword) - Password Manager and Secure Wallet.
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
@@ -110,7 +110,7 @@ I don't use Windows OS much anymore, so this list will be shorter, as many of th
 
 This list includes development tools for both Mac and Windows. Also see [my dotfiles](https://github.com/sunpech/dotfiles).
 
-#### Coding and IDE
+### Coding and IDE
 
 * [Android Studio](http://developer.android.com/sdk/index.html) - Android SDK and official IDE.
 * [Atom.io](http://atom.io/) - Text editor that is community driven.
@@ -123,7 +123,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [Sublime Text 2/3](http://www.sublimetext.com/) - Text editor.
 * [Visual Studio 2012 color theme editor](http://visualstudiogallery.msdn.microsoft.com/366ad100-0003-4c9a-81a8-337d4e7ace05)
 
-#### Database
+### Database
 
 * [Microsoft SQL Server 2014 Express](https://msdn.microsoft.com/en-us/sqlserver2014express.aspx) - Microsoft's SQL IDE.
 * [mySQL WorkBench](http://www.mysql.com/downloads/workbench/) - SQL IDE for mySQL.
@@ -131,7 +131,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [Postgres.app](http://postgresapp.com/) - Start/stop Postgres db.
 * [SSMS Tools Pack](http://www.ssmstoolspack.com/) - SQL Server Management Studio Tools.
 
-#### Terminal
+### Terminal
 
 * [Heroku Toolbelt](https://toolbelt.heroku.com/) - Deploy your apps to Heroku.
 * [Homebrew](http://brew.sh/) - Mac package manager.
@@ -139,14 +139,14 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [iTerm2 Color Schemes](http://iterm2colorschemes.com/)
 * [rbenv](https://github.com/sstephenson/rbenv) - Manage your rubies.
 
-#### Version Control
+### Version Control
 
 * [git](http://git-scm.com/) - Better to install via Homebrew
 * [Github for Mac](https://mac.github.com/) - Github for Desktop.
 * [SourceTree](http://www.sourcetreeapp.com/) - My favorite git GUI.
 * [SmartGit](http://www.syntevo.com/smartgithg/index.html) - *I don't use this anymore....*
 
-#### Websites and Services
+### Websites and Services
 
 * [BitBucket](http://bitbucket.org/) - Host public/Âprivate git repos here.
 * [CodeAnywhere](https://codeanywhere.com) - Web based dev IDE.
@@ -163,11 +163,11 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 My current favorite flavor of Linux is [Xubuntu](http://xubuntu.org/). I'm currently re-exploring [Crunchbang++](https://crunchbangplusplus.org/).
 
-#### Create a bootable USB
+### Create a bootable USB
 * [How to create a bootable USB stick on OS X](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx)
 * [How to create a bootable USB stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows)
 
-#### exFAT support
+### exFAT support
 
 I format my external hard drives to [exFAT](https://en.wikipedia.org/wiki/ExFAT) so I can read/write to them from any operating system (OSX, Win, Linux).
 
@@ -175,19 +175,19 @@ I format my external hard drives to [exFAT](https://en.wikipedia.org/wiki/ExFAT)
 sudo apt-get install exfat-utils exfat-fuse
 ```
 
-#### BOINC
+### BOINC
 
 ```
 sudo apt-get install boinc-client boinc-manager
 ```
 
-#### Formatting drives (gparted)
+### Formatting drives (gparted)
 
 ```
 sudo apt-get install gparted
 ```
 
-#### Install latest git
+### Install latest git
 
 ```
 sudo add-apt-repository ppa:git-core/ppa
@@ -201,9 +201,12 @@ sudo apt-get install git
 
 I use Android as my primary mobile OS on all my devices.
 
+### Factory Images
+
+* [Cyanogenmod](https://download.cyanogenmod.org/)
 * [Factory Images for Nexus Devices](https://developers.google.com/android/nexus/images?hl=en)
 
-#### Audio
+### Audio
 
 * [Amazon Music](https://play.google.com/store/apps/details?id=com.amazon.mp3)
 * [Audible](https://play.google.com/store/apps/details?id=com.audible.application)
@@ -214,20 +217,20 @@ I use Android as my primary mobile OS on all my devices.
 * [Soundhound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium)
 * [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music)
 
-#### Chat
+### Chat
 
 * [Facebook Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 * [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice)
 * [Hangouts](https://play.google.com/store/apps/details?id=com.google.android.talk)
 * [Line](https://play.google.com/store/apps/details?id=jp.naver.line.android)
 
-#### Cloud
+### Cloud
 
 * [Copy](https://play.google.com/store/apps/details?id=com.copy)
 * [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)
 * [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
 
-#### Miscellaneous
+### Miscellaneous
 
 * [Github](https://play.google.com/store/apps/details?id=com.github.mobile)
 * [Helium](https://play.google.com/store/apps/details?id=com.koushikdutta.backup) - Backup, restore, and sync your apps.
@@ -237,13 +240,13 @@ I use Android as my primary mobile OS on all my devices.
 * [Wi-fi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)
 * [wp clock](https://play.google.com/store/apps/details?id=com.tomanyz.lockWatchLight)
 
-#### Photography
+### Photography
 
 * [Camera Awesome](https://play.google.com/store/apps/details?id=com.smugmug.android.cameraawesome)
 * [GPS Logger](https://play.google.com/store/apps/details?id=com.mendhak.gpslogger)
 * [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
-#### Reading
+### Reading
 
 * [Amazon Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle)
 * [Chrome browser](https://play.google.com/store/apps/details?id=com.android.chrome)
@@ -251,21 +254,21 @@ I use Android as my primary mobile OS on all my devices.
 * [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 * [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer)
 
-#### Shopping
+### Shopping
 
 * [Amazon](https://play.google.com/store/apps/details?id=com.amazon.pricecheck)
 * [Android Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
 * [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
 * [PayPal](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)
 
-#### Social Network
+### Social Network
 
 * [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
 * [Facebook Pages](https://play.google.com/store/apps/details?id=com.facebook.pages.app)
 * [Google Plus](https://play.google.com/store/apps/details?id=com.google.android.apps.plus)
 * [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
 
-#### Travel
+### Travel
 
 * [Comic Con](https://play.google.com/store/apps/details?id=com.elementalbits.comiccon)
 * [Eventbrite](https://play.google.com/store/apps/details?id=com.eventbrite.attendee)
@@ -281,7 +284,7 @@ I use Android as my primary mobile OS on all my devices.
 * [Waze](https://play.google.com/store/apps/details?id=com.waze)
 * [Yelp](https://play.google.com/store/apps/details?id=com.yelp.android)
 
-#### Utility
+### Utility
 
 * [Alarm Clock Plus](https://play.google.com/store/apps/details?id=com.vp.alarmClockPlusV2)
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage)
@@ -289,7 +292,7 @@ I use Android as my primary mobile OS on all my devices.
 * [Swiftkey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)
 * [Tiny Flashlight](https://play.google.com/store/apps/details?id=com.devuni.flashlight)
 
-#### Video
+### Video
 
 * [Allcast](https://play.google.com/store/apps/details?id=com.koushikdutta.cast)
 * [Chromecast](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
