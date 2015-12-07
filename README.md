@@ -25,8 +25,13 @@ I use Mac most of the time now, so this list is rather extensive.
 * [1Password](https://agilebits.com/onepassword/extensions) - Password Manager and Secure Wallet.
 * [Buffer App](https://buffer.com/extras) - For managing your social media posts.
 * [Ghostery](https://www.ghostery.com/en/) - To protect your privacy.
+* [Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd?hl=en) - Send content to your Chromecast and other devices that support Google Cast.
+* [Https Everywhere](https://www.eff.org/HTTPS-everywhere) - Secure your web browsing by forcing https.
 * [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.
 * [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
+* [Reddit Enhancement Suite](http://redditenhancementsuite.com/) - Enhance your [reddit](http://www.reddit.com) browsing experience.
+* [Tampermonkey](https://tampermonkey.net/) - Userscript manager.
+* [TCPIP Utils](http://www.tcpiputils.com/) - The ultimate online investigation tool!
 * uBlock Origin ([Firefox](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/) & [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)) - Block unwanted ads in your browser.
 
 ### Internet
@@ -136,7 +141,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [Heroku Toolbelt](https://toolbelt.heroku.com/) - Deploy your apps to Heroku.
 * [Homebrew](http://brew.sh/) - Mac package manager.
 * [iTerm2](http://www.iterm2.com/) - Terminal alternative.
-* [iTerm2 Color Schemes](http://iterm2colorschemes.com/)
+* [iTerm2 Color Schemes](http://iterm2colorschemes.com/) - Make your iTerm look pretty.
 * [rbenv](https://github.com/sstephenson/rbenv) - Manage your rubies.
 
 ### Version Control
