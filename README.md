@@ -1,6 +1,15 @@
 # Sunpech's Best Software List
 
-A list of the best software for Mac, Windows, Ubuntu Linux, Android, and Software Development. Whenever I do a fresh install of a new operating system, I'll go through this list and choose what to install. Unless noted, all software are free.
+A list of the best software for Mac, Windows, Ubuntu Linux, Android, Software Development, and web browser extensions. Whenever I do a fresh install of a new operating system, I'll go through this list and choose what to install. Unless otherwise noted, all software are free.
+
+## Sections
+
+* [Mac OS X](#'Mac OS X')
+* [Windows OS](#'Windows OS')
+* [Web Browser Extensions]('#Web Browser Extensions')
+* [Software Development](#'Software Development')
+* [Ubuntu Linux](#'Ubuntu Linux')
+* [Android](#'Android')
 
 ## Mac OS X
 
@@ -19,20 +28,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Drobo](http://www.drobo.com/) - Get the software, after the hardware.
 * [Google Drive](https://drive.google.com/) - Google's cloud service tied to your Gmail.
 * [OneDrive](https://onedrive.live.com/?invref=e8e0c21396a27dc4&invsrc=90) - Microsoft's cloud service.
-
-### Web Browser Extensions
-
-* [1Password](https://agilebits.com/onepassword/extensions) - Password Manager and Secure Wallet.
-* [Buffer App](https://buffer.com/extras) - For managing your social media posts.
-* [Ghostery](https://www.ghostery.com/en/) - To protect your privacy.
-* [Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd?hl=en) - Send content to your Chromecast and other devices that support Google Cast.
-* [Https Everywhere](https://www.eff.org/HTTPS-everywhere) - Secure your web browsing by forcing https.
-* [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.
-* [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
-* [Reddit Enhancement Suite](http://redditenhancementsuite.com/) - Enhance your [reddit](http://www.reddit.com) browsing experience.
-* [Tampermonkey](https://tampermonkey.net/) - Userscript manager.
-* [TCPIP Utils](http://www.tcpiputils.com/) - The ultimate online investigation tool!
-* uBlock Origin ([Firefox](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/) & [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)) - Block unwanted ads in your browser.
 
 ### Internet
 
@@ -108,6 +103,24 @@ I don't use Windows OS much anymore, so this list will be shorter, as many of th
 * [PDF-XChange Viewer](http://www.docu-track.com/) - Open PDFs.
 * [Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653) - Monitor your system processes.
 * [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.
+
+## Web Browser Extensions
+
+![Web Browser Extensions](/images/web_browser_extensions_100px.png)
+
+These are some of my favorite web-browser extensions that I use in Google Chrome and/or Firefox.
+
+* [1Password](https://agilebits.com/onepassword/extensions) - Password Manager and Secure Wallet.
+* [Buffer App](https://buffer.com/extras) - For managing your social media posts.
+* [Ghostery](https://www.ghostery.com/en/) - To protect your privacy.
+* [Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd?hl=en) - Send content to your Chromecast and other devices that support Google Cast.
+* [Https Everywhere](https://www.eff.org/HTTPS-everywhere) - Secure your web browsing by forcing https.
+* [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.
+* [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
+* [Reddit Enhancement Suite](http://redditenhancementsuite.com/) - Enhance your [reddit](http://www.reddit.com) browsing experience.
+* [Tampermonkey](https://tampermonkey.net/) - Userscript manager.
+* [TCPIP Utils](http://www.tcpiputils.com/) - The ultimate online investigation tool!
+* uBlock Origin ([Firefox](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/) & [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)) - Block unwanted ads in your browser.
 
 ## Software Development
 
