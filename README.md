@@ -4,14 +4,14 @@ A list of the best software for Mac, Windows, Ubuntu Linux, Android, Software De
 
 ## Sections
 
-* [Mac OS X](#'Mac OS X')
-* [Windows OS](#'Windows OS')
-* [Web Browser Extensions]('#Web Browser Extensions')
-* [Software Development](#'Software Development')
-* [Ubuntu Linux](#'Ubuntu Linux')
-* [Android](#'Android')
+* [Mac OS X](#mac-os-x)
+* [Windows OS](#Windows-OS)
+* [Web Browser Extensions](#Web-Browser-Extensions)
+* [Software Development](#Software-Development)
+* [Ubuntu Linux](#Ubuntu-Linux)
+* [Android](#Android)
 
-## Mac OS X
+## Mac OS X ##
 
 ![OS X](/images/osx_100px.png)
 
@@ -90,7 +90,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Stock+ Pro](https://itunes.apple.com/us/app/stock-+-pro/id534067900?mt=12) - Monitor stocks.
 * [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Resize your windows without having to click on corners.
 
-## Windows OS
+## Windows OS ##
 
 ![Windows OS](/images/windows_100px.png)
 
@@ -104,7 +104,7 @@ I don't use Windows OS much anymore, so this list will be shorter, as many of th
 * [Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653) - Monitor your system processes.
 * [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.
 
-## Web Browser Extensions
+## Web Browser Extensions ##
 
 ![Web Browser Extensions](/images/web_browser_extensions_100px.png)
 
@@ -122,7 +122,7 @@ These are some of my favorite web-browser extensions that I use in Google Chrome
 * [TCPIP Utils](http://www.tcpiputils.com/) - The ultimate online investigation tool!
 * uBlock Origin ([Firefox](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/) & [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)) - Block unwanted ads in your browser.
 
-## Software Development
+## Software Development ##
 
 ![Software Development](/images/software_development_100px.png)
 
@@ -175,7 +175,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [Visual Studio color schemes](http://studiostyl.es/)
 * [Visual Studio wallpapers](http://visualstudiowallpapers.com/)
 
-## Ubuntu Linux
+## Ubuntu Linux ##
 
 ![XUbuntu](/images/xubuntu_100px.png)
 
@@ -213,7 +213,7 @@ sudo apt-get update
 sudo apt-get install git
 ```
 
-## Android
+## Android ##
 
 ![Android](/images/android_100px.png)
 
