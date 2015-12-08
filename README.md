@@ -5,11 +5,11 @@ A list of the best software for Mac, Windows, Ubuntu Linux, Android, Software De
 ## Sections
 
 * [Mac OS X](#mac-os-x)
-* [Windows OS](#Windows-OS)
-* [Web Browser Extensions](#Web-Browser-Extensions)
-* [Software Development](#Software-Development)
-* [Ubuntu Linux](#Ubuntu-Linux)
-* [Android](#Android)
+* [Windows OS](#windows-os)
+* [Web Browser Extensions](#web-browser-extensions)
+* [Software Development](#software-development)
+* [Ubuntu Linux](#ubuntu-linux)
+* [Android](#android)
 
 ## Mac OS X ##
 
