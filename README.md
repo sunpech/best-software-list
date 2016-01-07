@@ -179,7 +179,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 ![XUbuntu](/images/xubuntu_100px.png)
 
-My current favorite flavor of Linux is [Xubuntu](http://xubuntu.org/). I'm currently re-exploring [Crunchbang++](https://crunchbangplusplus.org/).
+My current favorite flavor of Linux is [Xubuntu](http://xubuntu.org/).
 
 ### Create a bootable USB
 * [How to create a bootable USB stick on OS X](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx)
