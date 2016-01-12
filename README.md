@@ -213,6 +213,15 @@ sudo apt-get update
 sudo apt-get install git
 ```
 
+### ssh server
+
+```
+sudo apt-get install openssh-server
+```
+
+Also see: [SSH/OpenSSH/Configuring](https://help.ubuntu.com/community/SSH/OpenSSH/Configuring)
+
+
 ## Android ##
 
 ![Android](/images/android_100px.png)
