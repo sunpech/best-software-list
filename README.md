@@ -70,7 +70,6 @@ I use Mac most of the time now, so this list is rather extensive.
 ### Productivity
 
 * [Alfred 2](http://www.alfredapp.com/) - Type what you need or what you want to do.
-* [Better Touch Tool](http://www.bettertouchtool.net/) - Custom map your keys.
 * [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 * [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
 * [Skitch](https://evernote.com/skitch/) - Edit your screenshot images.
@@ -81,6 +80,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [1Password](https://agilebits.com/onepassword) - Password Manager and Secure Wallet.
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
 * [Airmail 2](https://itunes.apple.com/us/app/airmail-2.1/id918858936?mt=12) - Mail client that's better than default.
+* [Better Touch Tool](http://www.bettertouchtool.net/) - Custom map your keys.
 * [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
 * [Forecast Bar](https://itunes.apple.com/us/app/forecast-bar-weather-powered/id982710545) - Weather in taskbar.
 * [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - Best Finder replacement.
@@ -138,7 +138,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [JetBrains Resharper](http://www.jetbrains.com/resharper/) - .Net add-on with tons of functionality.
 * [JetBrains RubyMine](http://www.jetbrains.com/ruby/) - Ruby/Rails IDE.
 * [Notepad++](http://notepad-plus.sourceforge.net/) - Text editor with more features on Windows.
-* [Sublime Text 2/3](http://www.sublimetext.com/) - Text editor.
+* [Sublime Text](http://www.sublimetext.com/) - Text editor.
 * [Visual Studio 2012 color theme editor](http://visualstudiogallery.msdn.microsoft.com/366ad100-0003-4c9a-81a8-337d4e7ace05)
 
 ### Database
