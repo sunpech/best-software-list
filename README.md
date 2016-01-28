@@ -57,6 +57,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Handbrake](http://handbrake.fr/) - Edit/convert videos.
 * [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice.
 * [Plex Media Server](https://plex.tv/) - Media server for your home videos/photos.
+* [SoundNode](http://www.soundnodeapp.com/) - Soundcloud desktop app.
 * [Spotify](http://www.spotify.com/) - Music player.
 * [Tagger](http://www.macupdate.com/app/mac/41285/tagger) - Batch update your ID3 tags in your music collection (mp3s).
 * [VLC Media Player](http://www.videolan.org/vlc/) - The best video/media player for any OS.
