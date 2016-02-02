@@ -39,6 +39,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Miscellaneous and Utilities
 
+* [Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF reader and editor.
 * [Android File Transfer](http://www.android.com/filetransfer/) - Transfer files via USB to your Android device.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
 * [Filezilla](http://filezilla-project.org/) - SFTP client.
