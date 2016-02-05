@@ -259,14 +259,14 @@ I use Android as my primary mobile OS on all my devices.
 * [Hangouts](https://play.google.com/store/apps/details?id=com.google.android.talk)
 * [Line](https://play.google.com/store/apps/details?id=jp.naver.line.android)
 
-### Cloud
+### Cloud Storage
 
-* [Copy](https://play.google.com/store/apps/details?id=com.copy)
 * [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)
 * [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
 
 ### Miscellaneous
 
+* [Google Opinion Rewards](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks&hl=en)
 * [Github](https://play.google.com/store/apps/details?id=com.github.mobile)
 * [Helium](https://play.google.com/store/apps/details?id=com.koushikdutta.backup) - Backup, restore, and sync your apps.
 * [IMDB](https://play.google.com/store/apps/details?id=com.imdb.mobile)
