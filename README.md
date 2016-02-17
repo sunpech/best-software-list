@@ -52,10 +52,11 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) - Decompress zip/rar files.
 * [World Community Grid](http://www.worldcommunitygrid.org/) - Grid computing.
 
-### Music and Video
+### Audio and Video
 
 * [Handbrake](http://handbrake.fr/) - Edit/convert videos.
 * [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice.
+* [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
 * [Plex Media Server](https://plex.tv/) - Media server for your home videos/photos.
 * [SoundNode](http://www.soundnodeapp.com/) - Soundcloud desktop app.
 * [Spotify](http://www.spotify.com/) - Music player.
