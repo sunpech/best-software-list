@@ -60,6 +60,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Plex Media Server](https://plex.tv/) - Media server for your home videos/photos.
 * [SoundNode](http://www.soundnodeapp.com/) - Soundcloud desktop app.
 * [Spotify](http://www.spotify.com/) - Music player.
+* [Spotifree](https://github.com/ArtemGordinsky/Spotifree) - Mute ads in Spotify.
 * [Tagger](http://www.macupdate.com/app/mac/41285/tagger) - Batch update your ID3 tags in your music collection (mp3s).
 * [VLC Media Player](http://www.videolan.org/vlc/) - The best video/media player for any OS.
 
@@ -168,10 +169,11 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 ### Websites and Services
 
-* [BitBucket](http://bitbucket.org/) - Host public/Âprivate git repos here.
+* [BitBucket](http://bitbucket.org/) - Host public/private git repos here.
 * [CodeAnywhere](https://codeanywhere.com) - Web based dev IDE.
 * [Dreamspark](https://www.dreamspark.com) - Microsoft's program for students.
 * [Github](https://github.com/) - Host public/private repos here.
+* [GitLab](https://gitlab.com/)
 * [Nitrous.IO](https://www.nitrous.io/join/eS1vRwA3uVY?utm_source=nitrous.io&utm_medium=copypaste&utm_campaign=referral) - Web based dev IDE.
 * [Scott Hanselman's 2014 Ultimate Developer Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 * [Visual Studio color schemes](http://studiostyl.es/)
@@ -181,7 +183,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 ![XUbuntu](/images/xubuntu_100px.png)
 
-My current favorite flavor of Linux is [Xubuntu](http://xubuntu.org/).
+My current favorite flavor of Linux is [Xubuntu](http://xubuntu.org/), but I also like [Ubuntu Mate](https://ubuntu-mate.org/).
 
 ### Create a bootable USB
 * [How to create a bootable USB stick on OS X](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx)
@@ -248,7 +250,6 @@ I use Android as my primary mobile OS on all my devices.
 * [Audible](https://play.google.com/store/apps/details?id=com.audible.application)
 * [BeyondPod](https://play.google.com/store/apps/details?id=mobi.beyondpod)
 * [Google Music](https://play.google.com/store/apps/details?id=com.google.android.music)
-* [Songza](https://play.google.com/store/apps/details?id=com.ad60.songza)
 * [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
 * [Soundhound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium)
 * [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music)
@@ -273,6 +274,7 @@ I use Android as my primary mobile OS on all my devices.
 * [IMDB](https://play.google.com/store/apps/details?id=com.imdb.mobile)
 * [OpenSignal](https://play.google.com/store/apps/details?id=com.staircase3.opensignal) - 3G/4G WiFi Map
 * [Speedtest](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
+* [StockTwits](https://play.google.com/store/apps/details?id=org.stocktwits.android.activity)
 * [Wi-fi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)
 * [wp clock](https://play.google.com/store/apps/details?id=com.tomanyz.lockWatchLight)
 
