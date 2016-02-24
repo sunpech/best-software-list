@@ -44,7 +44,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Filezilla](http://filezilla-project.org/) - SFTP client.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer.
 * [GPG Suite](https://gpgtools.org/) - Secure way to encrypt communication.
-* [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Build your HTTP requests.
+* [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Helps you build HTTP requests, inspect the server's response and even generate client code.
 * [Seil](https://pqrs.org/osx/karabiner/seil.html.en) - Utility to remap Caps lock and other keys.
 * [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Clone hard drives.
 * [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
