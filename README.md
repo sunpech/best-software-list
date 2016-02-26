@@ -230,7 +230,6 @@ Also see: [SSH/OpenSSH/Configuring](https://help.ubuntu.com/community/SSH/OpenSS
 ### Other flavors
 
 * [Crunchbang++](https://crunchbangplusplus.org/)
-* [Linux Mint](http://www.linuxmint.com/)
 * [Tails](https://tails.boum.org/)
 * [Ubuntu Mate](https://ubuntu-mate.org/)
 
