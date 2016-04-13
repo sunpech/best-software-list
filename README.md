@@ -68,6 +68,7 @@ I use Mac most of the time now, so this list is rather extensive.
 ### Pictures and Images
 
 * [Gimp](http://www.gimp.org/) - Edit pictures, a Photoshop-like program that's free.
+* [Giphy](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12) - Capture and create GIFs.
 * [Google Photos](https://photos.google.com/apps) - Google's photo storage.
 * [Picasa](http://picasa.google.com/) - Google's older photo storage service.
 
