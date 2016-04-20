@@ -117,6 +117,7 @@ I don't use Windows OS much anymore, so this list will be shorter, as many of th
 These are some of my favorite web-browser extensions that I use in Google Chrome and/or Firefox.
 
 * [1Password](https://agilebits.com/onepassword/extensions) - Password Manager and Secure Wallet.
+* [Bookmark Manager](https://chrome.google.com/webstore/detail/bookmark-manager/gmlllbghnfkpflemihljekbapjopfjik?hl=en) - Bookmarking made easier with the smarts of Google Search and a new modern UI.
 * [Buffer App](https://buffer.com/extras) - For managing your social media posts.
 * [Ghostery](https://www.ghostery.com/en/) - To protect your privacy.
 * [Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd?hl=en) - Send content to your Chromecast and other devices that support Google Cast.
