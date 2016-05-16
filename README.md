@@ -168,7 +168,8 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 * [git](http://git-scm.com/) - Better to install via Homebrew
 * [Github for Mac](https://mac.github.com/) - Github for Desktop.
-* [SourceTree](http://www.sourcetreeapp.com/) - My favorite git GUI.
+* [Git Kraken](https://www.gitkraken.com/) - Nice git GUI.
+* [SourceTree](http://www.sourcetreeapp.com/) - My main git GUI.
 * [SmartGit](http://www.syntevo.com/smartgithg/index.html) - *I don't use this anymore....*
 
 ### Websites and Services
