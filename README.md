@@ -4,14 +4,14 @@ A list of the best software for Mac, Windows, Ubuntu Linux, Android, Software De
 
 ## Sections
 
-* [Mac OS X](#mac-os-x)
+* [macOS](#macos)
 * [Windows OS](#windows-os)
 * [Web Browser Extensions](#web-browser-extensions)
 * [Software Development](#software-development)
 * [Ubuntu Linux](#ubuntu-linux)
 * [Android](#android)
 
-## Mac OS X ##
+## macOS ##
 
 ![OS X](/images/osx_100px.png)
 
@@ -180,7 +180,6 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [Dreamspark](https://www.dreamspark.com) - Microsoft's program for students.
 * [Github](https://github.com/) - Host public/private repos here.
 * [GitLab](https://gitlab.com/)
-* [Nitrous.IO](https://www.nitrous.io/join/eS1vRwA3uVY?utm_source=nitrous.io&utm_medium=copypaste&utm_campaign=referral) - Web based dev IDE.
 * [Scott Hanselman's 2014 Ultimate Developer Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 * [Visual Studio color schemes](http://studiostyl.es/)
 * [Visual Studio wallpapers](http://visualstudiowallpapers.com/)
