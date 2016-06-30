@@ -68,10 +68,13 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Pictures and Images
 
+* [Blender](https://www.blender.org/) - Open Source 3D Modeling
 * [Gimp](http://www.gimp.org/) - Edit pictures, a Photoshop-like program that's free.
 * [Giphy](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12) - Capture and create GIFs.
 * [Google Photos](https://photos.google.com/apps) - Google's photo storage.
-* [Picasa](http://picasa.google.com/) - Google's older photo storage service.
+* [Krita](https://krita.org/en/) - Digital Painting.
+* [Picasa](http://picasa.google.com/) - Google's photo storage service that isn't supported any longer.
+* [SketchUp](http://www.sketchup.com/products/sketchup-make) - 3D Drawing tool.
 
 ### Productivity
 
