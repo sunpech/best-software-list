@@ -45,7 +45,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer.
 * [GPG Suite](https://gpgtools.org/) - Secure way to encrypt communication.
 * [OSX Fuse](https://osxfuse.github.io/) - The easiest and fastest way to create file systems for OS X.
-* [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Helps you build HTTP requests, inspect the server's response and even generate client code.
 * [Seil](https://pqrs.org/osx/karabiner/seil.html.en) - Utility to remap Caps lock and other keys.
 * [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Clone hard drives.
 * [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
@@ -97,6 +96,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [iStat Menus](http://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
 * [iStat Mini](https://itunes.apple.com/us/app/istat-mini/id927292435?mt=12) - Mini version of iStat Menus.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
+* [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Helps you build HTTP requests, inspect the server's response and even generate client code.
 * [Stock+ Pro](https://itunes.apple.com/us/app/stock-+-pro/id534067900?mt=12) - Monitor stocks.
 * [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Resize your windows without having to click on corners.
 
