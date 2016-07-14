@@ -30,39 +30,39 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Internet
 
-* [Chrome](http://www.google.com/chrome) - Google web browser.
+* [Chrome](http://www.google.com/chrome/) - Google web browser.
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/) - My second favorite browser.
-* [Transmission](http://www.transmissionbt.com/download/) - Torrent downloader.
+* [Transmission](https://www.transmissionbt.com/download/) - Torrent downloader.
 * [Tweetdeck](https://about.twitter.com/products/tweetdeck) - Twitter client with columns.
 * [Twitter client](https://itunes.apple.com/us/app/twitter/id409789998?mt=12) - Default Twitter client.
 
 ### Miscellaneous and Utilities
 
-* [Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF reader and editor.
-* [Android File Transfer](http://www.android.com/filetransfer/) - Transfer files via USB to your Android device.
+* [Adobe Acrobat Reader](/reader/otherversions/) - PDF reader and editor.
+* [Android File Transfer](https://www.android.com/filetransfer/) - Transfer files via USB to your Android device.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
-* [Filezilla](http://filezilla-project.org/) - SFTP client.
+* [Filezilla](https://filezilla-project.org/) - SFTP client.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer.
 * [GPG Suite](https://gpgtools.org/) - Secure way to encrypt communication.
 * [OSX Fuse](https://osxfuse.github.io/) - The easiest and fastest way to create file systems for OS X.
 * [Seil](https://pqrs.org/osx/karabiner/seil.html.en) - Utility to remap Caps lock and other keys.
 * [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Clone hard drives.
-* [Teamviewer](http://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
-* [Trim Enabler](http://www.groths.org/) - Enables TRIM on 3rd party SSDs.
-* [Tunnel Bear](http://www.tunnelbear.com/) - VPN software.
+* [Teamviewer](https://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
+* [Trim Enabler](http://cindori.org/) - Enables TRIM on 3rd party SSDs.
+* [Tunnel Bear](https://www.tunnelbear.com/) - VPN software.
 * [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) - Decompress zip/rar files.
-* [World Community Grid](http://www.worldcommunitygrid.org/) - Grid computing.
+* [World Community Grid](http://www.worldcommunitygrid.org/discover.action) - Grid computing.
 
 ### Audio and Video
 
-* [Handbrake](http://handbrake.fr/) - Edit/convert videos.
+* [Handbrake](https://handbrake.fr/) - Edit/convert videos.
 * [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice.
 * [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
-* [Plex Media Server](https://plex.tv/) - Media server for your home videos/photos.
+* [Plex Media Server](https://www.plex.tv/) - Media server for your home videos/photos.
 * [SoundNode](http://www.soundnodeapp.com/) - Soundcloud desktop app.
-* [Spotify](http://www.spotify.com/) - Music player.
+* [Spotify](https://www.spotify.com/) - Music player.
 * [Spotifree](https://github.com/ArtemGordinsky/Spotifree) - Mute ads in Spotify.
-* [Tagger](http://www.macupdate.com/app/mac/41285/tagger) - Batch update your ID3 tags in your music collection (mp3s).
+* [Tagger](https://www.macupdate.com/app/mac/41285/tagger) - Batch update your ID3 tags in your music collection (mp3s).
 * [VLC Media Player](http://www.videolan.org/vlc/) - The best video/media player for any OS.
 
 ### Pictures and Images
@@ -77,23 +77,23 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Productivity
 
-* [Alfred 2](http://www.alfredapp.com/) - Type what you need or what you want to do.
-* [F.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
+* [Alfred 2](https://www.alfredapp.com/) - Type what you need or what you want to do.
+* [F.lux](http://justgetflux.com/) - Automatically adjust your computer screen to match lighting.
 * [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
 * [Skitch](https://evernote.com/skitch/) - Edit your screenshot images.
 * [Slack](https://slack.com/) - Collaboration software for teams.
 
 ### Best Applications to Buy
 
-* [1Password](https://agilebits.com/onepassword) - Password Manager and Secure Wallet.
+* [1Password](https://1password.com) - Password Manager and Secure Wallet.
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
 * [Airmail 2](https://itunes.apple.com/us/app/airmail-2.1/id918858936?mt=12) - Mail client that's better than default.
 * [Bartender 2](https://www.macbartender.com/) - Organize your menu bar apps.
-* [Better Touch Tool](http://www.bettertouchtool.net/) - Custom map your keys.
+* [Better Touch Tool](http://boastr.net) - Custom map your keys.
 * [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
 * [Forecast Bar](https://itunes.apple.com/us/app/forecast-bar-weather-powered/id982710545) - Weather in taskbar.
 * [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - Best Finder replacement.
-* [iStat Menus](http://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
+* [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
 * [iStat Mini](https://itunes.apple.com/us/app/istat-mini/id927292435?mt=12) - Mini version of iStat Menus.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
 * [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Helps you build HTTP requests, inspect the server's response and even generate client code.
@@ -109,9 +109,9 @@ I don't use Windows OS much anymore, so this list will be shorter, as many of th
 * [7 Zip](http://www.7-zip.org/) - Decompress zip/rar files.
 * [Classic Shell](http://www.classicshell.net/) - If you use Windows 8 and want the Start Menu back.
 * [Gizmo Drive](http://arainia.com/software/gizmo/overview.php?nID=4) - Mount ISOs.
-* [Microsoft Security Essentials](http://www.microsoft.com/Security_Essentials/) - Antivirus/Antispyware security software.
-* [PDF-XChange Viewer](http://www.docu-track.com/) - Open PDFs.
-* [Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653) - Monitor your system processes.
+* [Microsoft Security Essentials](http://windows.microsoft.com/mse) - Antivirus/Antispyware security software.
+* [PDF-XChange Viewer](http://www.tracker-software.com) - Open PDFs.
+* [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/bb896653) - Monitor your system processes.
 * [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.
 
 ## Web Browser Extensions ##
@@ -123,7 +123,7 @@ These are some of my favorite web-browser extensions that I use in Google Chrome
 * [1Password](https://agilebits.com/onepassword/extensions) - Password Manager and Secure Wallet.
 * [Bookmark Manager](https://chrome.google.com/webstore/detail/bookmark-manager/gmlllbghnfkpflemihljekbapjopfjik?hl=en) - Bookmarking made easier with the smarts of Google Search and a new modern UI.
 * [Buffer App](https://buffer.com/extras) - For managing your social media posts.
-* [Ghostery](https://www.ghostery.com/en/) - To protect your privacy.
+* [Ghostery](https://www.ghostery.com/?nr) - To protect your privacy.
 * [Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd?hl=en) - Send content to your Chromecast and other devices that support Google Cast.
 * [Google Input Tools](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) - Switch to typing in a different language with the click of the mouse, and switch back just as easily.
 * [Https Everywhere](https://www.eff.org/HTTPS-everywhere) - Secure your web browsing by forcing https.
@@ -143,22 +143,22 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 ### Coding and IDE
 
-* [Android Studio](http://developer.android.com/sdk/index.html) - Android SDK and official IDE.
-* [Atom.io](http://atom.io/) - Text editor that is community driven.
+* [Android Studio](https://developer.android.com/sdk/index.html) - Android SDK and official IDE.
+* [Atom.io](https://atom.io/) - Text editor that is community driven.
 * [DiffMerge](http://www.sourcegear.com/diffmerge/) - Compare your files/directories.
 * [Eclipse](http://www.eclipse.org/) - Java IDE.
 * [JetBrains IntelliJ](http://www.jetbrains.com/idea/) - Java IDE.
 * [JetBrains Resharper](http://www.jetbrains.com/resharper/) - .Net add-on with tons of functionality.
 * [JetBrains RubyMine](http://www.jetbrains.com/ruby/) - Ruby/Rails IDE.
-* [Notepad++](http://notepad-plus.sourceforge.net/) - Text editor with more features on Windows.
+* [Notepad++](http://notepad-plus-plus.org/) - Text editor with more features on Windows.
 * [Sublime Text](http://www.sublimetext.com/) - Text editor.
 * [Visual Studio 2012 color theme editor](http://visualstudiogallery.msdn.microsoft.com/366ad100-0003-4c9a-81a8-337d4e7ace05)
 
 ### Database
 
 * [Microsoft SQL Server 2014 Express](https://msdn.microsoft.com/en-us/sqlserver2014express.aspx) - Microsoft's SQL IDE.
-* [mySQL WorkBench](http://www.mysql.com/downloads/workbench/) - SQL IDE for mySQL.
-* [pgAdmin](http://www.pgadmin.org/) - SQL IDE for Postgres.
+* [mySQL WorkBench](http://dev.mysql.com/downloads/workbench/) - SQL IDE for mySQL.
+* [pgAdmin](https://www.pgadmin.org/) - SQL IDE for Postgres.
 * [Postgres.app](http://postgresapp.com/) - Start/stop Postgres db.
 * [SSMS Tools Pack](http://www.ssmstoolspack.com/) - SQL Server Management Studio Tools.
 
@@ -168,19 +168,19 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [Homebrew](http://brew.sh/) - Mac package manager.
 * [iTerm2](http://www.iterm2.com/) - Terminal alternative.
 * [iTerm2 Color Schemes](http://iterm2colorschemes.com/) - Make your iTerm look pretty.
-* [rbenv](https://github.com/sstephenson/rbenv) - Manage your rubies.
+* [rbenv](https://github.com/rbenv/rbenv) - Manage your rubies.
 
 ### Version Control
 
-* [git](http://git-scm.com/) - Better to install via Homebrew
-* [Github for Mac](https://mac.github.com/) - Github for Desktop.
+* [git](https://git-scm.com/) - Better to install via Homebrew
+* [Github for Mac](https://desktop.github.com/) - Github for Desktop.
 * [Git Kraken](https://www.gitkraken.com/) - Nice git GUI.
-* [SourceTree](http://www.sourcetreeapp.com/) - My main git GUI.
-* [SmartGit](http://www.syntevo.com/smartgithg/index.html) - *I don't use this anymore....*
+* [SourceTree](https://www.sourcetreeapp.com/) - My main git GUI.
+* [SmartGit](http://www.syntevo.com/smartgit/index.html) - *I don't use this anymore....*
 
 ### Websites and Services
 
-* [BitBucket](http://bitbucket.org/) - Host public/private git repos here.
+* [BitBucket](https://bitbucket.org/) - Host public/private git repos here.
 * [CodeAnywhere](https://codeanywhere.com) - Web based dev IDE.
 * [Dreamspark](https://www.dreamspark.com) - Microsoft's program for students.
 * [Github](https://github.com/) - Host public/private repos here.
