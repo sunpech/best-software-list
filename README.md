@@ -282,6 +282,7 @@ I use Android as my primary mobile OS on all my devices.
 * [Helium](https://play.google.com/store/apps/details?id=com.koushikdutta.backup) - Backup, restore, and sync your apps.
 * [IMDB](https://play.google.com/store/apps/details?id=com.imdb.mobile)
 * [OpenSignal](https://play.google.com/store/apps/details?id=com.staircase3.opensignal) - 3G/4G WiFi Map
+* [Pokemon GO](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en)
 * [Speedtest](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
 * [StockTwits](https://play.google.com/store/apps/details?id=org.stocktwits.android.activity)
 * [Wi-fi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)
