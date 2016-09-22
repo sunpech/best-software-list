@@ -45,6 +45,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer.
 * [GPG Suite](https://gpgtools.org/) - Secure way to encrypt communication.
 * [OSX Fuse](https://osxfuse.github.io/) - The easiest and fastest way to create file systems for OS X.
+* [Prey Project](https://preyproject.com/) - Track and find your stolen devices.
 * [Seil](https://pqrs.org/osx/karabiner/seil.html.en) - Utility to remap Caps lock and other keys.
 * [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Clone hard drives.
 * [Teamviewer](https://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
