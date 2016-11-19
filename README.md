@@ -154,6 +154,8 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [Notepad++](http://notepad-plus-plus.org/) - Text editor with more features on Windows.
 * [Sublime Text](http://www.sublimetext.com/) - Text editor.
 * [Visual Studio 2012 color theme editor](http://visualstudiogallery.msdn.microsoft.com/366ad100-0003-4c9a-81a8-337d4e7ace05)
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* [Visual Studio Mac Preview](https://www.visualstudio.com/vs/visual-studio-mac/)
 
 ### Database
 
