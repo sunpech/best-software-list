@@ -58,8 +58,8 @@ I use Mac most of the time now, so this list is rather extensive.
 
 * [Handbrake](https://handbrake.fr/) - Edit/convert videos.
 * [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice.
-* [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
 * [Plex Media Server](https://www.plex.tv/) - Media server for your home videos/photos.
+* [Serenity](https://itunes.apple.com/us/app/serenity/id1185371817) - Relaxing ambient sounds.
 * [SoundNode](http://www.soundnodeapp.com/) - Soundcloud desktop app.
 * [Spotify](https://www.spotify.com/) - Music player.
 * [Spotifree](https://github.com/ArtemGordinsky/Spotifree) - Mute ads in Spotify.
@@ -96,6 +96,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - Best Finder replacement.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
 * [iStat Mini](https://itunes.apple.com/us/app/istat-mini/id927292435?mt=12) - Mini version of iStat Menus.
+* [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
 * [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Helps you build HTTP requests, inspect the server's response and even generate client code.
 * [Stock+ Pro](https://itunes.apple.com/us/app/stock-+-pro/id534067900?mt=12) - Monitor stocks.
