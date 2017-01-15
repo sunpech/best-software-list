@@ -39,6 +39,7 @@ I use Mac most of the time now, so this list is rather extensive.
 ### Miscellaneous and Utilities
 
 * [Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF reader and editor.
+* [AirDroid](https://airdroid.com/) - A suitable replacement for Android File Transfer (ATF).
 * [Android File Transfer](https://www.android.com/filetransfer/) - Transfer files via USB to your Android device.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
 * [Filezilla](https://filezilla-project.org/) - SFTP client.
@@ -338,6 +339,7 @@ I use Android as my primary mobile OS on all my devices.
 
 ### Utility
 
+* [AirDroid](https://play.google.com/store/apps/details?id=com.sand.airdroid&hl=en)
 * [Alarm Clock Plus](https://play.google.com/store/apps/details?id=com.vp.alarmClockPlusV2)
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage)
 * [ROM Manager](https://play.google.com/store/apps/details?id=com.koushikdutta.rommanager.license)
