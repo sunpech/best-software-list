@@ -94,7 +94,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Better Touch Tool](http://boastr.net) - Custom map your keys.
 * [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
 * [Forecast Bar](https://itunes.apple.com/us/app/forecast-bar-weather-powered/id982710545) - Weather in taskbar.
-* [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - Best Finder replacement.
+* [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - Best Finder replacement. [ForkLift3](http://www.binarynights.com/forklift/) is available.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
 * [iStat Mini](https://itunes.apple.com/us/app/istat-mini/id927292435?mt=12) - Mini version of iStat Menus.
 * [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
