@@ -255,7 +255,7 @@ I use Android as my primary mobile OS on all my devices.
 
 ### Factory Images
 
-* [Cyanogenmod](https://download.cyanogenmod.org/)
+* [Lineage OS](http://lineageos.org/) - [Cyanogenmod](https://download.cyanogenmod.org/) is no more.
 * [Factory Images for Nexus Devices](https://developers.google.com/android/nexus/images?hl=en)
 
 ### Audio
