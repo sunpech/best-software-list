@@ -2,6 +2,8 @@
 
 A list of the best software for Mac, Windows, Ubuntu Linux, Android, Software Development, and web browser extensions. Whenever I do a fresh install of a new operating system, I'll go through this list and choose what to install. Unless otherwise noted, all software are free.
 
+For security, recommended reading: [privacytools.io](https://privacytoolsio.github.io/privacytools.io/)
+
 ## Sections
 
 * [macOS](#macos)
