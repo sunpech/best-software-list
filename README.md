@@ -2,8 +2,6 @@
 
 A list of the best software for Mac, Windows, Ubuntu Linux, Android, Software Development, and web browser extensions. Whenever I do a fresh install of a new operating system, I'll go through this list and choose what to install. Unless otherwise noted, all software are free.
 
-For security, recommended reading: [privacytools.io](https://privacytoolsio.github.io/privacytools.io/)
-
 ## Sections
 
 * [macOS](#macos)
@@ -12,6 +10,7 @@ For security, recommended reading: [privacytools.io](https://privacytoolsio.gith
 * [Software Development](#software-development)
 * [Ubuntu Linux](#ubuntu-linux)
 * [Android](#android)
+* [Misc](#misc)
 
 ## macOS ##
 
@@ -356,3 +355,8 @@ I use Android as my primary mobile OS on all my devices.
 * [Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
 * [youTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 * [youTube Gaming](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.gaming)
+
+## Misc ##
+
+* [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - A software list I've contributed to.
+* [privacytools.io](https://privacytoolsio.github.io/privacytools.io/) - Recommended reading for security.
