@@ -61,7 +61,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Handbrake](https://handbrake.fr/) - Edit/convert videos.
 * [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice.
 * [Plex Media Server](https://www.plex.tv/) - Media server for your home videos/photos.
-* [Serenity](https://itunes.apple.com/us/app/serenity/id1185371817) - Relaxing ambient sounds.
+* [Serenity](https://itunes.apple.com/us/app/serenity/id1185371817) - Relaxing ambient sounds. A better paid version is Noizio.
 * [SoundNode](http://www.soundnodeapp.com/) - Soundcloud desktop app.
 * [Spotify](https://www.spotify.com/) - Music player.
 * [Spotifree](https://github.com/ArtemGordinsky/Spotifree) - Mute ads in Spotify.
