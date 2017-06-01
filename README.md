@@ -93,6 +93,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Airmail 2](https://itunes.apple.com/us/app/airmail-2.1/id918858936?mt=12) - Mail client that's better than default.
 * [Bartender 2](https://www.macbartender.com/) - Organize your menu bar apps.
 * [Better Touch Tool](http://boastr.net) - Custom map your keys.
+* [DaisyDisk](https://itunes.apple.com/us/app/daisydisk/id411643860) - Visual breakdown of your disk space.
 * [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
 * [Forecast Bar](https://itunes.apple.com/us/app/forecast-bar-weather-powered/id982710545) - Weather in taskbar.
 * [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - Best Finder replacement. [ForkLift3](http://www.binarynights.com/forklift/) is available.
