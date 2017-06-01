@@ -99,6 +99,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - Best Finder replacement. [ForkLift3](http://www.binarynights.com/forklift/) is available.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
 * [iStat Mini](https://itunes.apple.com/us/app/istat-mini/id927292435?mt=12) - Mini version of iStat Menus.
+* [Magnet](https://itunes.apple.com/us/app/magnet/id441258766) - Window arrangement app.
 * [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
 * [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Helps you build HTTP requests, inspect the server's response and even generate client code.
