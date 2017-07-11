@@ -135,6 +135,7 @@ These are some of my favorite web-browser extensions that I use in Google Chrome
 * [Https Everywhere](https://www.eff.org/HTTPS-everywhere) - Secure your web browsing by forcing https.
 * [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.
 * [LensTag Rescue](https://chrome.google.com/webstore/detail/lenstag-rescue/mciidkooancddoomldklgcklkbmlboog) - Scans images on the web for registered serial numbers to help rescue stolen camera gear.
+* [Privacy Badger](https://www.eff.org/privacybadger) - Blocks spying ads and invisible trackers.
 * [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
 * [Reddit Enhancement Suite](http://redditenhancementsuite.com/) - Enhance your [reddit](http://www.reddit.com) browsing experience.
 * [Tampermonkey](https://tampermonkey.net/) - Userscript manager.
