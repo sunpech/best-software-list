@@ -133,6 +133,7 @@ These are some of my favorite web-browser extensions that I use in Google Chrome
 * [Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd?hl=en) - Send content to your Chromecast and other devices that support Google Cast.
 * [Google Input Tools](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) - Switch to typing in a different language with the click of the mouse, and switch back just as easily.
 * [Https Everywhere](https://www.eff.org/HTTPS-everywhere) - Secure your web browsing by forcing https.
+* [Keepa](https://keepa.com/) - Amazon price tracker.
 * [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.
 * [LensTag Rescue](https://chrome.google.com/webstore/detail/lenstag-rescue/mciidkooancddoomldklgcklkbmlboog) - Scans images on the web for registered serial numbers to help rescue stolen camera gear.
 * [Privacy Badger](https://www.eff.org/privacybadger) - Blocks spying ads and invisible trackers.
