@@ -80,7 +80,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Productivity
 
-* [Alfred 2](https://www.alfredapp.com/) - Type what you need or what you want to do.
+* [Alfred 3](https://www.alfredapp.com/) - Type what you need or what you want to do.
 * [F.lux](http://justgetflux.com/) - Automatically adjust your computer screen to match lighting.
 * [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
 * [Skitch](https://evernote.com/skitch/) - Edit your screenshot images.
@@ -90,8 +90,8 @@ I use Mac most of the time now, so this list is rather extensive.
 
 * [1Password](https://1password.com) - Password Manager and Secure Wallet.
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
-* [Airmail 2](https://itunes.apple.com/us/app/airmail-2.1/id918858936?mt=12) - Mail client that's better than default.
-* [Bartender 2](https://www.macbartender.com/) - Organize your menu bar apps.
+* [Airmail 3](https://itunes.apple.com/us/app/airmail-3/id918858936) - Mail client that's better than default.
+* [Bartender 3](https://www.macbartender.com/) - Organize your menu bar apps.
 * [Better Touch Tool](http://boastr.net) - Custom map your keys.
 * [DaisyDisk](https://itunes.apple.com/us/app/daisydisk/id411643860) - Visual breakdown of your disk space.
 * [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
@@ -161,7 +161,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [Notepad++](http://notepad-plus-plus.org/) - Text editor with more features on Windows.
 * [Sublime Text](http://www.sublimetext.com/) - Text editor.
 * [Visual Studio 2012 color theme editor](http://visualstudiogallery.msdn.microsoft.com/366ad100-0003-4c9a-81a8-337d4e7ace05)
-* [Visual Studio Code](https://code.visualstudio.com/download)
+* [Visual Studio Code](https://code.visualstudio.com/download) - Quickly becoming my default code editor over Atom.io.
 * [Visual Studio Mac Preview](https://www.visualstudio.com/vs/visual-studio-mac/)
 
 ### Database
