@@ -173,10 +173,13 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 ### Terminal
 
+* [Fishshell](https://fishshell.com/) - A smart and user-friendly command line
+shell for macOS, Linux, and the rest of the family.
 * [Heroku Toolbelt](https://toolbelt.heroku.com/) - Deploy your apps to Heroku.
 * [Homebrew](http://brew.sh/) - Mac package manager.
 * [iTerm2](http://www.iterm2.com/) - Terminal alternative.
 * [iTerm2 Color Schemes](http://iterm2colorschemes.com/) - Make your iTerm look pretty.
+* [Oh my fish](https://github.com/oh-my-fish/oh-my-fish) - A fish shell framework.
 * [rbenv](https://github.com/rbenv/rbenv) - Manage your rubies.
 
 ### Version Control
