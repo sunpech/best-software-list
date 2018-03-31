@@ -165,6 +165,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 ### Database
 
+* [DBeaver](https://dbeaver.jkiss.org/) - Universal SQL Client
 * [Microsoft SQL Server 2014 Express](https://msdn.microsoft.com/en-us/sqlserver2014express.aspx) - Microsoft's SQL IDE.
 * [mySQL WorkBench](http://dev.mysql.com/downloads/workbench/) - SQL IDE for mySQL.
 * [pgAdmin](https://www.pgadmin.org/) - SQL IDE for Postgres.
