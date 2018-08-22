@@ -315,6 +315,7 @@ I use Android as my primary mobile OS on all my devices.
 * [Chrome browser](https://play.google.com/store/apps/details?id=com.android.chrome)
 * [CNN](https://play.google.com/store/apps/details?id=com.cnn.mobile.android.phone)
 * [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+* [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) 
 * [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer)
 
 ### Shopping
