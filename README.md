@@ -43,6 +43,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [AirDroid](https://airdroid.com/) - A suitable replacement for Android File Transfer (ATF).
 * [Android File Transfer](https://www.android.com/filetransfer/) - Transfer files via USB to your Android device.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
+* [EasyRes](http://easyresapp.com/) - A fast screen resolution switcher for Mac OS X with live animated previews.
 * [Filezilla](https://filezilla-project.org/) - SFTP client.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. I remap my Caps lock key to the escape key.
 * [GPG Suite](https://gpgtools.org/) - Secure way to encrypt communication.
