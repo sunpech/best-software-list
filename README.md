@@ -91,7 +91,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 * [1Password](https://1password.com) - Password Manager and Secure Wallet.
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
-* [Airmail 3](https://itunes.apple.com/us/app/airmail-3/id918858936) - Mail client that's better than default.
+* [Airmail 3](https://itunes.apple.com/us/app/airmail-3/id918858936) - Mail client that's better than MacOS's default.
 * [Bartender 3](https://www.macbartender.com/) - Organize your menu bar apps.
 * [Better Touch Tool](http://boastr.net) - Custom map your keys.
 * [DaisyDisk](https://itunes.apple.com/us/app/daisydisk/id411643860) - Visual breakdown of your disk space.
@@ -101,11 +101,12 @@ I use Mac most of the time now, so this list is rather extensive.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
 * [iStat Mini](https://itunes.apple.com/us/app/istat-mini/id927292435?mt=12) - Mini version of iStat Menus.
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766) - Window arrangement app.
+* [Mailplane](https://mailplaneapp.com/) - The best way to use Gmail on your Mac.
 * [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
 * [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Helps you build HTTP requests, inspect the server's response and even generate client code.
 * [Stock+ Pro](https://itunes.apple.com/us/app/stock-+-pro/id534067900?mt=12) - Monitor stocks.
-* [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Resize your windows without having to click on corners.
+* [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Resize your windows without having to click on corners (No longer available).
 
 ## Windows OS ##
 
