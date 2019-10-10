@@ -81,11 +81,12 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Productivity
 
-* [Alfred 3](https://www.alfredapp.com/) - Type what you need or what you want to do.
+* [Alfred App](https://www.alfredapp.com/) - Type what you need or what you want to do.
 * [F.lux](http://justgetflux.com/) - Automatically adjust your computer screen to match lighting.
 * [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
 * [Skitch](https://evernote.com/skitch/) - Edit your screenshot images.
 * [Slack](https://slack.com/) - Collaboration software for teams.
+* [Trello](https://trello.com/en-US) - Collaborative boards, lists, and cards.
 
 ### Best Applications to Buy
 
@@ -190,7 +191,6 @@ shell for macOS, Linux, and the rest of the family.
 
 * [git](https://git-scm.com/) - Better to install via Homebrew
 * [Github for Mac](https://desktop.github.com/) - Github for Desktop.
-* [Git Kraken](https://www.gitkraken.com/) - Nice git GUI.
 * [SourceTree](https://www.sourcetreeapp.com/) - My main git GUI.
 * [SmartGit](http://www.syntevo.com/smartgit/index.html) - *I don't use this anymore....*
 
