@@ -35,7 +35,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/) - My second favorite browser.
 * [Transmission](https://www.transmissionbt.com/download/) - Torrent downloader.
 * [Tweetdeck](https://about.twitter.com/products/tweetdeck) - Twitter client with columns.
-* [Twitter client](https://itunes.apple.com/us/app/twitter/id409789998?mt=12) - Default Twitter client.
 
 ### Miscellaneous and Utilities
 
@@ -97,7 +96,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Better Touch Tool](http://boastr.net) - Custom map your keys.
 * [DaisyDisk](https://itunes.apple.com/us/app/daisydisk/id411643860) - Visual breakdown of your disk space.
 * [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
-* [Forecast Bar](https://itunes.apple.com/us/app/forecast-bar-weather-powered/id982710545) - Weather in taskbar.
 * [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - Best Finder replacement. [ForkLift3](http://www.binarynights.com/forklift/) is available.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
 * [iStat Mini](https://itunes.apple.com/us/app/istat-mini/id927292435?mt=12) - Mini version of iStat Menus.
@@ -201,6 +199,7 @@ shell for macOS, Linux, and the rest of the family.
 * [Dreamspark](https://www.dreamspark.com) - Microsoft's program for students.
 * [Github](https://github.com/) - Host public/private repos here.
 * [GitLab](https://gitlab.com/)
+* [Netlify](https://www.netlify.com/) - Deploy projects here for hosting.
 * [Scott Hanselman's 2014 Ultimate Developer Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
 * [Visual Studio color schemes](http://studiostyl.es/)
 * [Visual Studio wallpapers](http://visualstudiowallpapers.com/)
@@ -282,9 +281,7 @@ I use Android as my primary mobile OS on all my devices.
 
 ### Chat
 
-* [Facebook Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 * [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice)
-* [Hangouts](https://play.google.com/store/apps/details?id=com.google.android.talk)
 * [Line](https://play.google.com/store/apps/details?id=jp.naver.line.android)
 
 ### Cloud Storage
@@ -295,8 +292,6 @@ I use Android as my primary mobile OS on all my devices.
 ### Miscellaneous
 
 * [Google Opinion Rewards](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks&hl=en)
-* [Github](https://play.google.com/store/apps/details?id=com.github.mobile)
-* [Helium](https://play.google.com/store/apps/details?id=com.koushikdutta.backup) - Backup, restore, and sync your apps.
 * [IMDB](https://play.google.com/store/apps/details?id=com.imdb.mobile)
 * [OpenSignal](https://play.google.com/store/apps/details?id=com.staircase3.opensignal) - 3G/4G WiFi Map
 * [Pokemon GO](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en)
@@ -309,7 +304,6 @@ I use Android as my primary mobile OS on all my devices.
 
 * [Camera Awesome](https://play.google.com/store/apps/details?id=com.smugmug.android.cameraawesome)
 * [GPS Logger](https://play.google.com/store/apps/details?id=com.mendhak.gpslogger)
-* [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 ### Reading
 
@@ -329,15 +323,13 @@ I use Android as my primary mobile OS on all my devices.
 
 ### Social Network
 
-* [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
-* [Facebook Pages](https://play.google.com/store/apps/details?id=com.facebook.pages.app)
-* [Google Plus](https://play.google.com/store/apps/details?id=com.google.android.apps.plus)
+* [Buffer](https://play.google.com/store/apps/details?id=org.buffer.android&hl=en_US)
+* [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 * [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 ### Travel
 
 * [Comic Con](https://play.google.com/store/apps/details?id=com.elementalbits.comiccon)
-* [Eventbrite](https://play.google.com/store/apps/details?id=com.eventbrite.attendee)
 * [Foursquare](https://play.google.com/store/apps/details?id=com.joelapenna.foursquared)
 * [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
 * [Lyft](https://play.google.com/store/apps/details?id=me.lyft.android)
@@ -355,9 +347,6 @@ I use Android as my primary mobile OS on all my devices.
 * [AirDroid](https://play.google.com/store/apps/details?id=com.sand.airdroid&hl=en)
 * [Alarm Clock Plus](https://play.google.com/store/apps/details?id=com.vp.alarmClockPlusV2)
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage)
-* [ROM Manager](https://play.google.com/store/apps/details?id=com.koushikdutta.rommanager.license)
-* [Swiftkey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)
-* [Tiny Flashlight](https://play.google.com/store/apps/details?id=com.devuni.flashlight)
 
 ### Video
 
