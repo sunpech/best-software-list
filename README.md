@@ -41,6 +41,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF reader and editor.
 * [AirDroid](https://airdroid.com/) - A suitable replacement for Android File Transfer (ATF).
 * [Android File Transfer](https://www.android.com/filetransfer/) - Transfer files via USB to your Android device.
+* [Balena Etcher](https://www.balena.io/etcher/) - Flash  OS images to SD cards and USB drives, safely and easily.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
 * [EasyRes](http://easyresapp.com/) - A fast screen resolution switcher for Mac OS X with live animated previews.
 * [Filezilla](https://filezilla-project.org/) - SFTP client.
