@@ -129,18 +129,12 @@ I don't use Windows OS much anymore, so this list will be shorter, as many of th
 These are some of my favorite web-browser extensions that I use in Google Chrome and/or Firefox.
 
 * [1Password](https://agilebits.com/onepassword/extensions) - Password Manager and Secure Wallet.
-* [Bookmark Manager](https://chrome.google.com/webstore/detail/bookmark-manager/gmlllbghnfkpflemihljekbapjopfjik?hl=en) - Bookmarking made easier with the smarts of Google Search and a new modern UI.
 * [Buffer App](https://buffer.com/extras) - For managing your social media posts.
-* [Ghostery](https://www.ghostery.com/?nr) - To protect your privacy.
-* [Google Cast](https://chrome.google.com/webstore/detail/google-cast/boadgeojelhgndaghljhdicfkmllpafd?hl=en) - Send content to your Chromecast and other devices that support Google Cast.
-* [Google Input Tools](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab) - Switch to typing in a different language with the click of the mouse, and switch back just as easily.
 * [Https Everywhere](https://www.eff.org/HTTPS-everywhere) - Secure your web browsing by forcing https.
 * [Keepa](https://keepa.com/) - Amazon price tracker.
 * [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.
-* [LensTag Rescue](https://chrome.google.com/webstore/detail/lenstag-rescue/mciidkooancddoomldklgcklkbmlboog) - Scans images on the web for registered serial numbers to help rescue stolen camera gear.
 * [Privacy Badger](https://www.eff.org/privacybadger) - Blocks spying ads and invisible trackers.
 * [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
-* [Reddit Enhancement Suite](http://redditenhancementsuite.com/) - Enhance your [reddit](http://www.reddit.com) browsing experience.
 * [Tampermonkey](https://tampermonkey.net/) - Userscript manager.
 * [TCPIP Utils](http://www.tcpiputils.com/) - The ultimate online investigation tool!
 * uBlock Origin ([Firefox](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/) & [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)) - Block unwanted ads in your browser.
