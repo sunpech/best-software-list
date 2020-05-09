@@ -14,7 +14,7 @@ A list of the best software for Mac, Windows, Ubuntu Linux, Android, Software De
 
 ## macOS ##
 
-![OS X](/images/osx_100px.png)
+![OS X](/images/macos_100px.png)
 
 I use Mac most of the time now, so this list is rather extensive.
 
