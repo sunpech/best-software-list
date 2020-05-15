@@ -31,6 +31,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Internet
 
+* [Brave](https://brave.com/sun686) - My current favorite web browser.
 * [Chrome](http://www.google.com/chrome/) - Google web browser.
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/) - My second favorite browser.
 * [Transmission](https://www.transmissionbt.com/download/) - Torrent downloader.
@@ -76,7 +77,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Giphy](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12) - Capture and create GIFs.
 * [Google Photos](https://photos.google.com/apps) - Google's photo storage.
 * [Krita](https://krita.org/en/) - Digital Painting.
-* [Picasa](http://picasa.google.com/) - Google's photo storage service that isn't supported any longer.
 * [SketchUp](http://www.sketchup.com/products/sketchup-make) - 3D Drawing tool.
 
 ### Productivity
@@ -88,16 +88,16 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Slack](https://slack.com/) - Collaboration software for teams.
 * [Trello](https://trello.com/en-US) - Collaborative boards, lists, and cards.
 
-### Best Applications to Buy
+### Best Applications to Buy/Subscribe to
 
 * [1Password](https://1password.com) - Password Manager and Secure Wallet.
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
-* [Airmail 3](https://itunes.apple.com/us/app/airmail-3/id918858936) - Mail client that's better than MacOS's default.
 * [Bartender 3](https://www.macbartender.com/) - Organize your menu bar apps.
 * [Better Touch Tool](http://boastr.net) - Custom map your keys.
+* [Bitwarden](https://bitwarden.com/) - Password manager.
 * [DaisyDisk](https://itunes.apple.com/us/app/daisydisk/id411643860) - Visual breakdown of your disk space.
 * [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
-* [ForkLift2](https://itunes.apple.com/us/app/forklift-file-manager-ftp/id412448059?mt=12) - Best Finder replacement. [ForkLift3](http://www.binarynights.com/forklift/) is available.
+* [ForkLift 3](https://apps.apple.com/us/app/forklift-file-manager-and-ftp-sftp-webdav-amazon-s3-client/id412448059?mt=12) - Best Finder replacement.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
 * [iStat Mini](https://itunes.apple.com/us/app/istat-mini/id927292435?mt=12) - Mini version of iStat Menus.
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766) - Window arrangement app.
@@ -105,7 +105,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
 * [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Helps you build HTTP requests, inspect the server's response and even generate client code.
-* [Stock+ Pro](https://itunes.apple.com/us/app/stock-+-pro/id534067900?mt=12) - Monitor stocks.
 * [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Resize your windows without having to click on corners (No longer available).
 
 ## Windows OS ##
@@ -158,7 +157,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 * [Sublime Text](http://www.sublimetext.com/) - Text editor.
 * [Visual Studio 2012 color theme editor](http://visualstudiogallery.msdn.microsoft.com/366ad100-0003-4c9a-81a8-337d4e7ace05)
 * [Visual Studio Code](https://code.visualstudio.com/download) - Quickly becoming my default code editor over Atom.io.
-* [Visual Studio Mac Preview](https://www.visualstudio.com/vs/visual-studio-mac/)
+* [Visual Studio Mac](https://visualstudio.microsoft.com/vs/mac/)
 
 ### Database
 
@@ -185,7 +184,6 @@ shell for macOS, Linux, and the rest of the family.
 * [git](https://git-scm.com/) - Better to install via Homebrew
 * [Github for Mac](https://desktop.github.com/) - Github for Desktop.
 * [SourceTree](https://www.sourcetreeapp.com/) - My main git GUI.
-* [SmartGit](http://www.syntevo.com/smartgit/index.html) - *I don't use this anymore....*
 
 ### Websites and Services
 
