@@ -51,6 +51,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [OSX Fuse](https://osxfuse.github.io/) - The easiest and fastest way to create file systems for OS X.
 * [Prey Project](https://preyproject.com/) - Track and find your stolen devices.
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net/) - Actually functional side navigation buttons on your third-party mice in macOS.
+* [Service Station](https://servicestation.menu/features/launch-terminal-from-finder) - Service Station is a macOS app for customizing your right-click menu in Finder.
 * [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Clone hard drives.
 * [Teamviewer](https://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
 * [Trim Enabler](http://cindori.org/) - Enables TRIM on 3rd party SSDs.
