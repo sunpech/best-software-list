@@ -289,7 +289,7 @@ I use Android as my primary mobile OS on all my devices.
 * [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)
 * [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
 
-### Financials
+### Financial
 * [Marketwatch](https://play.google.com/store/apps/details?id=com.marketwatch&hl=en)
 * [StockTwits](https://play.google.com/store/apps/details?id=org.stocktwits.android.activity)
 * [Yahoo Finance](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.finance&hl=en_US&gl=US)
