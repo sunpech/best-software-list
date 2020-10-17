@@ -289,6 +289,11 @@ I use Android as my primary mobile OS on all my devices.
 * [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)
 * [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
 
+### Financials
+* [Marketwatch](https://play.google.com/store/apps/details?id=com.marketwatch&hl=en)
+* [StockTwits](https://play.google.com/store/apps/details?id=org.stocktwits.android.activity)
+* [Yahoo Finance](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.finance&hl=en_US&gl=US)
+
 ### Miscellaneous
 
 * [Google Opinion Rewards](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks&hl=en)
@@ -296,7 +301,6 @@ I use Android as my primary mobile OS on all my devices.
 * [OpenSignal](https://play.google.com/store/apps/details?id=com.staircase3.opensignal) - 3G/4G WiFi Map
 * [Pokemon GO](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en)
 * [Speedtest](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
-* [StockTwits](https://play.google.com/store/apps/details?id=org.stocktwits.android.activity)
 * [Wi-fi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)
 * [wp clock](https://play.google.com/store/apps/details?id=com.tomanyz.lockWatchLight)
 
