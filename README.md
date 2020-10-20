@@ -45,6 +45,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Miscellaneous and Utilities
 
+* [7-Zip](https://www.7-zip.org/) - Compress and decompress zip/rar files.
 * [Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF reader and editor.
 * [AirDroid](https://airdroid.com/) - A suitable replacement for Android File Transfer (ATF).
 * [Android File Transfer](https://www.android.com/filetransfer/) - Transfer files via USB to your Android device.
@@ -184,6 +185,7 @@ shell for macOS, Linux, and the rest of the family.
 * [iTerm2](http://www.iterm2.com/) - Terminal alternative.
 * [iTerm2 Color Schemes](http://iterm2colorschemes.com/) - Make your iTerm look pretty.
 * [Oh my fish](https://github.com/oh-my-fish/oh-my-fish) - A fish shell framework.
+* [PuTTY](https://www.putty.org/) - SSH client terminal.
 * [rbenv](https://github.com/rbenv/rbenv) - Manage your rubies.
 
 ### Version Control
