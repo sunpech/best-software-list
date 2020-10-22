@@ -45,7 +45,6 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Miscellaneous and Utilities
 
-* [7-Zip](https://www.7-zip.org/) - Compress and decompress zip/rar files.
 * [Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF reader and editor.
 * [AirDroid](https://airdroid.com/) - A suitable replacement for Android File Transfer (ATF).
 * [Android File Transfer](https://www.android.com/filetransfer/) - Transfer files via USB to your Android device.
