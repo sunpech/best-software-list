@@ -184,6 +184,7 @@ shell for macOS, Linux, and the rest of the family.
 * [iTerm2](http://www.iterm2.com/) - Terminal alternative.
 * [iTerm2 Color Schemes](http://iterm2colorschemes.com/) - Make your iTerm look pretty.
 * [Oh my fish](https://github.com/oh-my-fish/oh-my-fish) - A fish shell framework.
+* [PuTTY](https://www.putty.org/) - SSH client terminal.
 * [rbenv](https://github.com/rbenv/rbenv) - Manage your rubies.
 
 ### Version Control
