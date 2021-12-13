@@ -20,7 +20,7 @@ Any other pull requests submissions made is up to my discretion if I accept or n
 
 ## macOS ##
 
-![OS X](/images/macos_100px.png)
+![macOS](/images/macos_100px.png)
 
 I use Mac most of the time now, so this list is rather extensive.
 
@@ -107,9 +107,9 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766) - Window arrangement app.
 * [Mailplane](https://mailplaneapp.com/) - The best way to use Gmail on your Mac.
 * [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
+* [NTFS for Mac](https://ntfsformac.tuxera.com/) - Write to NTFS volumes from MacOS.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
 * [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Helps you build HTTP requests, inspect the server's response and even generate client code.
-* [Tuxera NTFS](https://ntfsformac.tuxera.com/) - Write to NTFS volumes from MacOS.
 ## Windows OS ##
 
 ![Windows OS](/images/windows_100px.png)
