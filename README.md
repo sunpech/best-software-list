@@ -2,12 +2,6 @@
 
 A list of the best software for Mac, Windows, Ubuntu Linux, Android, Software Development, and web browser extensions. Whenever I do a fresh install of a new operating system, I'll go through this list and choose what to install. Unless otherwise noted, all software are free.
 
-## Hacktoberfest 2020
-
-This is a nice fun project for beginners to make a contribution to a project. I will add an issue for something, if followed correctly, I will accept. Just follow the directions in the issue, which if you are familiar with markdown, should be able to complete easily.
-
-Any other pull requests submissions made is up to my discretion if I accept or not.
-
 ## Sections
 
 * [macOS](#macos)
