@@ -15,7 +15,6 @@ Any other pull requests submissions made is up to my discretion if I accept or n
 * [Web Browser Extensions](#web-browser-extensions)
 * [Software Development](#software-development)
 * [Ubuntu Linux](#ubuntu-linux)
-* [Android](#android)
 * [Misc](#misc)
 
 ## macOS ##
@@ -252,111 +251,6 @@ Also see: [SSH/OpenSSH/Configuring](https://help.ubuntu.com/community/SSH/OpenSS
 * [Crunchbang++](https://crunchbangplusplus.org/)
 * [Tails](https://tails.boum.org/)
 * [Ubuntu Mate](https://ubuntu-mate.org/)
-
-
-## Android ##
-
-![Android](/images/android_100px.png)
-
-I use Android as my primary mobile OS on all my devices.
-
-### Factory Images
-
-* [Lineage OS](http://lineageos.org/) - [Cyanogenmod](https://download.cyanogenmod.org/) is no more.
-* [Factory Images for Pixel and Nexus Devices](https://developers.google.com/android/nexus/images?hl=en)
-
-### Audio
-
-* [Amazon Music](https://play.google.com/store/apps/details?id=com.amazon.mp3)
-* [Audible](https://play.google.com/store/apps/details?id=com.audible.application)
-* [BeyondPod](https://play.google.com/store/apps/details?id=mobi.beyondpod)
-* [Google Music](https://play.google.com/store/apps/details?id=com.google.android.music)
-* [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
-* [Soundhound](https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium)
-* [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music)
-
-### Chat
-
-* [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice)
-* [Line](https://play.google.com/store/apps/details?id=jp.naver.line.android)
-
-### Cloud Storage
-
-* [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)
-* [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
-
-### Financial
-* [Marketwatch](https://play.google.com/store/apps/details?id=com.marketwatch&hl=en)
-* [StockTwits](https://play.google.com/store/apps/details?id=org.stocktwits.android.activity)
-* [Yahoo Finance](https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.finance&hl=en_US&gl=US)
-
-### Miscellaneous
-
-* [Google Opinion Rewards](https://play.google.com/store/apps/details?id=com.google.android.apps.paidtasks&hl=en)
-* [IMDB](https://play.google.com/store/apps/details?id=com.imdb.mobile)
-* [OpenSignal](https://play.google.com/store/apps/details?id=com.staircase3.opensignal) - 3G/4G WiFi Map
-* [Pokemon GO](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en)
-* [Speedtest](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)
-* [Wi-fi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer)
-* [wp clock](https://play.google.com/store/apps/details?id=com.tomanyz.lockWatchLight)
-
-### Photography
-
-* [Camera Awesome](https://play.google.com/store/apps/details?id=com.smugmug.android.cameraawesome)
-* [GPS Logger](https://play.google.com/store/apps/details?id=com.mendhak.gpslogger)
-
-### Reading
-
-* [Amazon Kindle](https://play.google.com/store/apps/details?id=com.amazon.kindle)
-* [Chrome browser](https://play.google.com/store/apps/details?id=com.android.chrome)
-* [CNN](https://play.google.com/store/apps/details?id=com.cnn.mobile.android.phone)
-* [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
-* [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) 
-* [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer)
-
-### Shopping
-
-* [Amazon](https://play.google.com/store/apps/details?id=com.amazon.pricecheck)
-* [Android Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
-* [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile)
-* [PayPal](https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile)
-
-### Social Network
-
-* [Buffer](https://play.google.com/store/apps/details?id=org.buffer.android&hl=en_US)
-* [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
-* [Twitter](https://play.google.com/store/apps/details?id=com.twitter.android)
-
-### Travel
-
-* [Comic Con](https://play.google.com/store/apps/details?id=com.elementalbits.comiccon)
-* [Foursquare](https://play.google.com/store/apps/details?id=com.joelapenna.foursquared)
-* [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
-* [Lyft](https://play.google.com/store/apps/details?id=me.lyft.android)
-* [Meetup](https://play.google.com/store/apps/details?id=com.meetup)
-* [Park Chicago](https://play.google.com/store/apps/details?id=com.passportparking.mobile.parkchicago)
-* [Parking Panda](https://play.google.com/store/apps/details?id=com.parkingpanda.mobile)
-* [Southwest](https://play.google.com/store/apps/details?id=com.southwestairlines.mobile)
-* [Swarm](https://play.google.com/store/apps/details?id=com.foursquare.robin)
-* [Uber](https://play.google.com/store/apps/details?id=com.ubercab)
-* [Waze](https://play.google.com/store/apps/details?id=com.waze)
-* [Yelp](https://play.google.com/store/apps/details?id=com.yelp.android)
-
-### Utility
-
-* [AirDroid](https://play.google.com/store/apps/details?id=com.sand.airdroid&hl=en)
-* [Alarm Clock Plus](https://play.google.com/store/apps/details?id=com.vp.alarmClockPlusV2)
-* [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage)
-
-### Video
-
-* [Allcast](https://play.google.com/store/apps/details?id=com.koushikdutta.cast)
-* [Chromecast](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
-* [Plex](https://play.google.com/store/apps/details?id=com.plexapp.android)
-* [Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
-* [youTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
-* [youTube Gaming](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.gaming)
-
 ## Misc ##
 
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - A software list I've contributed to.
