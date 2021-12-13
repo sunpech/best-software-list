@@ -55,13 +55,9 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. I remap my Caps lock key to the escape key.
 * [GPG Suite](https://gpgtools.org/) - Secure way to encrypt communication.
 * [OSX Fuse](https://osxfuse.github.io/) - The easiest and fastest way to create file systems for OS X.
-* [Prey Project](https://preyproject.com/) - Track and find your stolen devices.
 * [SensibleSideButtons](http://sensible-side-buttons.archagon.net/) - Actually functional side navigation buttons on your third-party mice in macOS.
 * [Service Station](https://servicestation.menu/features/launch-terminal-from-finder) - Service Station is a macOS app for customizing your right-click menu in Finder.
-* [SuperDuper](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - Clone hard drives.
 * [Teamviewer](https://www.teamviewer.com/en/index.aspx) - Remotely control another computer.
-* [Trim Enabler](http://cindori.org/) - Enables TRIM on 3rd party SSDs.
-* [Tunnel Bear](https://www.tunnelbear.com/) - VPN software.
 * [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) - Decompress zip/rar files.
 * [World Community Grid](http://www.worldcommunitygrid.org/discover.action) - Grid computing.
 
