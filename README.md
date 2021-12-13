@@ -109,6 +109,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
 * [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Helps you build HTTP requests, inspect the server's response and even generate client code.
+* [Tuxera NTFS](https://ntfsformac.tuxera.com/) - Write to NTFS volumes from MacOS.
 ## Windows OS ##
 
 ![Windows OS](/images/windows_100px.png)
