@@ -116,6 +116,7 @@ I don't use Windows OS much anymore, so this list will be shorter, as many of th
 * [PDF-XChange Viewer](http://www.tracker-software.com) - Open PDFs.
 * [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/bb896653) - Monitor your system processes.
 * [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.
+* [Rufus](https://rufus.ie/en/) - A utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.
 
 ## Web Browser Extensions ##
 
