@@ -23,8 +23,6 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Cloud Storage, Sync, and Backup
 
-* [Dropbox](https://db.tt/pHCTifn) - Service that keeps your files safe, synced, and easy to share.
-* [Drobo](http://www.drobo.com/) - Get the software, after the hardware.
 * [Google Backup & Sync](https://www.google.com/drive/download/backup-and-sync/) - Google's cloud service tied to your Gmail.
 * [OneDrive](https://onedrive.live.com/?invref=e8e0c21396a27dc4&invsrc=90) - Microsoft's cloud service.
 
@@ -102,7 +100,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
 * [NTFS for Mac](https://ntfsformac.tuxera.com/) - Write to NTFS volumes from MacOS.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
-* [Paw (HTTP & REST Client)](https://itunes.apple.com/us/app/paw-http-rest-client/id584653203?mt=12) - Helps you build HTTP requests, inspect the server's response and even generate client code.
 ## Windows OS ##
 
 ![Windows OS](/images/windows_100px.png)
@@ -110,8 +107,6 @@ I use Mac most of the time now, so this list is rather extensive.
 I don't use Windows OS much anymore, so this list will be shorter, as many of the software available for Mac is also available on Windows.
 
 * [7 Zip](http://www.7-zip.org/) - Decompress zip/rar files.
-* [Classic Shell](http://www.classicshell.net/) - If you use Windows 8 and want the Start Menu back.
-* [Gizmo Drive](http://arainia.com/software/gizmo/overview.php?nID=4) - Mount ISOs.
 * [Microsoft Security Essentials](http://windows.microsoft.com/mse) - Antivirus/Antispyware security software.
 * [PDF-XChange Viewer](http://www.tracker-software.com) - Open PDFs.
 * [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/bb896653) - Monitor your system processes.
@@ -133,7 +128,7 @@ These are some of my favorite web-browser extensions that I use in Google Chrome
 * [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
 * [Tampermonkey](https://tampermonkey.net/) - Userscript manager.
 * [TCPIP Utils](http://www.tcpiputils.com/) - The ultimate online investigation tool!
-* uBlock Origin ([Firefox](https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/) & [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)) - Block unwanted ads in your browser.
+* [uBlock Origin](https://github.com/gorhill/uBlock) - Block unwanted content/ads in your browser.
 
 ## Software Development ##
 
@@ -144,15 +139,9 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 ### Coding and IDE
 
 * [Android Studio](https://developer.android.com/sdk/index.html) - Android SDK and official IDE.
-* [Atom.io](https://atom.io/) - Text editor that is community driven.
 * [DiffMerge](http://www.sourcegear.com/diffmerge/) - Compare your files/directories.
-* [Eclipse](http://www.eclipse.org/) - Java IDE.
-* [JetBrains IntelliJ](http://www.jetbrains.com/idea/) - Java IDE.
-* [JetBrains Resharper](http://www.jetbrains.com/resharper/) - .Net add-on with tons of functionality.
-* [JetBrains RubyMine](http://www.jetbrains.com/ruby/) - Ruby/Rails IDE.
 * [Notepad++](http://notepad-plus-plus.org/) - Text editor with more features on Windows.
 * [Sublime Text](http://www.sublimetext.com/) - Text editor.
-* [Visual Studio 2012 color theme editor](http://visualstudiogallery.msdn.microsoft.com/366ad100-0003-4c9a-81a8-337d4e7ace05)
 * [Visual Studio Code](https://code.visualstudio.com/download) - Quickly becoming my default code editor over Atom.io.
 * [Visual Studio Mac](https://visualstudio.microsoft.com/vs/mac/)
 
@@ -185,8 +174,6 @@ shell for macOS, Linux, and the rest of the family.
 ### Websites and Services
 
 * [BitBucket](https://bitbucket.org/) - Host public/private git repos here.
-* [CodeAnywhere](https://codeanywhere.com) - Web based dev IDE.
-* [Dreamspark](https://www.dreamspark.com) - Microsoft's program for students.
 * [Github](https://github.com/) - Host public/private repos here.
 * [GitLab](https://gitlab.com/)
 * [Netlify](https://www.netlify.com/) - Deploy projects here for hosting.
