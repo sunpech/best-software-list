@@ -104,7 +104,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ![Windows OS](/images/windows_100px.png)
 
-I don't use Windows OS much anymore, so this list will be shorter, as many of the software available for Mac is also available on Windows.
+This list is shorter. Many of the software available for Mac is also available on Windows.
 
 * [7 Zip](http://www.7-zip.org/) - Decompress zip/rar files.
 * [Microsoft Security Essentials](http://windows.microsoft.com/mse) - Antivirus/Antispyware security software.
@@ -148,7 +148,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 ### Database
 
 * [DBeaver](https://dbeaver.jkiss.org/) - Universal SQL Client
-* [Microsoft SQL Server 2014 Express](https://msdn.microsoft.com/en-us/sqlserver2014express.aspx) - Microsoft's SQL IDE.
+* [Microsoft SQL Server Developer/Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - Microsoft's SQL Server Developer and Express.
 * [mySQL WorkBench](http://dev.mysql.com/downloads/workbench/) - SQL IDE for mySQL.
 * [pgAdmin](https://www.pgadmin.org/) - SQL IDE for Postgres.
 * [Postgres.app](http://postgresapp.com/) - Start/stop Postgres db.
