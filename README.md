@@ -31,8 +31,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Brave](https://brave.com/sun686) - My current favorite web browser.
 * [Chrome](http://www.google.com/chrome/) - Google web browser.
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/) - My second favorite browser.
-* [Transmission](https://www.transmissionbt.com/download/) - Torrent downloader.
-* [Tweetdeck](https://about.twitter.com/products/tweetdeck) - Twitter client with columns.
 
 ### Miscellaneous and Utilities
 
