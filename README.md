@@ -92,7 +92,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Bitwarden](https://bitwarden.com/) - Password manager.
 * [DaisyDisk](https://itunes.apple.com/us/app/daisydisk/id411643860) - Visual breakdown of your disk space.
 * [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
-* [ForkLift 3](https://apps.apple.com/us/app/forklift-file-manager-and-ftp-sftp-webdav-amazon-s3-client/id412448059?mt=12) - Best Finder replacement.
+* [ForkLift 4](https://binarynights.com/) - Best Finder replacement.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
 * [iStat Mini](https://itunes.apple.com/us/app/istat-mini/id927292435?mt=12) - Mini version of iStat Menus.
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766) - Window arrangement app.
@@ -100,6 +100,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
 * [NTFS for Mac](https://ntfsformac.tuxera.com/) - Write to NTFS volumes from MacOS.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
+
 ## Windows OS ##
 
 ![Windows OS](/images/windows_100px.png)
