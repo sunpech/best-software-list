@@ -122,7 +122,6 @@ These are some of my favorite web-browser extensions that I use in Google Chrome
 * [Buffer App](https://buffer.com/extras) - For managing your social media posts.
 * [Https Everywhere](https://www.eff.org/HTTPS-everywhere) - Secure your web browsing by forcing https.
 * [Keepa](https://keepa.com/) - Amazon price tracker.
-* [LastPass](https://lastpass.com/f?3306226) - Securely store/generate passwords.
 * [Privacy Badger](https://www.eff.org/privacybadger) - Blocks spying ads and invisible trackers.
 * [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
 * [Tampermonkey](https://tampermonkey.net/) - Userscript manager.
