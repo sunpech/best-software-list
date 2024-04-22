@@ -94,7 +94,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
 * [iStat Mini](https://itunes.apple.com/us/app/istat-mini/id927292435?mt=12) - Mini version of iStat Menus.
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766) - Window arrangement app.
-* [Mailplane](https://mailplaneapp.com/) - The best way to use Gmail on your Mac.
 * [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
 * [NTFS for Mac](https://ntfsformac.tuxera.com/) - Write to NTFS volumes from MacOS.
 * [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
