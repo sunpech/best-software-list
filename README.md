@@ -75,7 +75,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 * [Alfred App](https://www.alfredapp.com/) - Type what you need or what you want to do.
 * [F.lux](http://justgetflux.com/) - Automatically adjust your computer screen to match lighting.
-* [Logitech G Hub](https://www.logitechg.com/en-us/innovation/g-hub.html) - Customize Logitech mouse. Also see: [how to use Logitech Anywhere MX back/forward button on OSX Finder?](https://apple.stackexchange.com/questions/167164/how-to-use-logitech-anywhere-mx-back-forward-button-on-osx-finder/213110})
+* [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html) - Lets you configure your Logitech mouse buttons, keyboard keys, and touchpad to your preference, adjust your lights and webcams to always look your best.
 * [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
 * [Skitch](https://evernote.com/skitch/) - Edit your screenshot images.
 * [Slack](https://slack.com/) - Collaboration software for teams.
