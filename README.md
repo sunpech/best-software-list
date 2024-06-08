@@ -41,6 +41,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
 * [EasyRes](http://easyresapp.com/) - A fast screen resolution switcher for Mac OS X with live animated previews.
 * [Filezilla](https://filezilla-project.org/) - SFTP client.
+* [Hidden bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) - Hidden lets you hide menu bar items to give your Mac a cleaner look.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. I remap my Caps lock key to the escape key.
 * [GPG Suite](https://gpgtools.org/) - Secure way to encrypt communication.
 * [OSX Fuse](https://osxfuse.github.io/) - The easiest and fastest way to create file systems for OS X.
@@ -85,7 +86,6 @@ I use Mac most of the time now, so this list is rather extensive.
 
 * [1Password](https://1password.com) - Password Manager and Secure Wallet.
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
-* [Bartender 3](https://www.macbartender.com/) - Organize your menu bar apps.
 * [Better Touch Tool](http://boastr.net) - Custom map your keys.
 * [Bitwarden](https://bitwarden.com/) - Password manager.
 * [DaisyDisk](https://itunes.apple.com/us/app/daisydisk/id411643860) - Visual breakdown of your disk space.
