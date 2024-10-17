@@ -116,14 +116,12 @@ This list is shorter. Many of the software available for Mac is also available o
 These are some of my favorite web-browser extensions that I use in Google Chrome and/or Firefox.
 
 * [1Password](https://agilebits.com/onepassword/extensions) - Password Manager and Secure Wallet.
-* [Buffer App](https://buffer.com/extras) - For managing your social media posts.
 * [Https Everywhere](https://www.eff.org/HTTPS-everywhere) - Secure your web browsing by forcing https.
 * [Keepa](https://keepa.com/) - Amazon price tracker.
 * [Privacy Badger](https://www.eff.org/privacybadger) - Blocks spying ads and invisible trackers.
-* [PushBullet](https://www.pushbullet.com/) - Push messages to your devices.
-* [Tampermonkey](https://tampermonkey.net/) - Userscript manager.
-* [TCPIP Utils](http://www.tcpiputils.com/) - The ultimate online investigation tool!
+* [DNSlytics - IP Address and Domain Information](https://chromewebstore.google.com/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa) - Online investigation tool - Reverse IP, NS, MS, WHOIS and Search. Formerly tcpiputils.com.
 * [uBlock Origin](https://github.com/gorhill/uBlock) - Block unwanted content/ads in your browser.
+* [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=en&pli=1)
 
 ## Software Development ##
 
