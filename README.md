@@ -28,9 +28,10 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Internet
 
-* [Brave](https://brave.com/sun686) - My current favorite web browser.
+* [Brave](https://brave.com/sun686) - My favorite privacy-focused web browser.
 * [Chrome](http://www.google.com/chrome/) - Google web browser.
 * [Firefox](http://www.mozilla.org/en-US/firefox/new/) - My second favorite browser.
+* [Microsoft Edge](https://www.microsoft.com/en-us/edge/) - Microsoft's web browser
 
 ### Miscellaneous and Utilities
 
@@ -40,12 +41,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [EasyRes](http://easyresapp.com/) - A fast screen resolution switcher for Mac OS X with live animated previews.
 * [Filezilla](https://filezilla-project.org/) - SFTP client.
 * [Hidden bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) - Hidden lets you hide menu bar items to give your Mac a cleaner look.
-* [Karabiner](https://pqrs.org/osx/karabiner/) - A powerful keyboard customizer. I remap my Caps lock key to the escape key.
-* [GPG Suite](https://gpgtools.org/) - Secure way to encrypt communication.
-* [OSX Fuse](https://osxfuse.github.io/) - The easiest and fastest way to create file systems for OS X.
 * [RustDesk](https://rustdesk.com/) - The fast open-source Remote Access and support software. I prefer this over [Teamviewer](https://www.teamviewer.com/en-us/).
-* [SensibleSideButtons](http://sensible-side-buttons.archagon.net/) - Actually functional side navigation buttons on your third-party mice in macOS.
-* [Service Station](https://servicestation.menu/features/launch-terminal-from-finder) - Service Station is a macOS app for customizing your right-click menu in Finder.
 * [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) - Decompress zip/rar files.
 * [World Community Grid](http://www.worldcommunitygrid.org/discover.action) - Grid computing.
 
@@ -55,10 +51,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice.
 * [Plex Media Server](https://www.plex.tv/) - Media server for your home videos/photos.
 * [Serenity](https://itunes.apple.com/us/app/serenity/id1185371817) - Relaxing ambient sounds. A better paid version is Noizio.
-* [SoundNode](http://www.soundnodeapp.com/) - Soundcloud desktop app.
-* [Spotify](https://www.spotify.com/) - Music player.
-* [Spotifree](https://github.com/ArtemGordinsky/Spotifree) - Mute ads in Spotify.
-* [Tagger](https://www.macupdate.com/app/mac/41285/tagger) - Batch update your ID3 tags in your music collection (mp3s).
 * [VLC Media Player](http://www.videolan.org/vlc/) - The best video/media player for any OS.
 
 ### Pictures and Images
@@ -84,17 +76,12 @@ I use Mac most of the time now, so this list is rather extensive.
 
 * [1Password](https://1password.com) - Password Manager and Secure Wallet.
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html) - Photoshop + Lightroom CC. Well worth the $10/month subscription.
-* [Better Touch Tool](http://boastr.net) - Custom map your keys.
 * [Bitwarden](https://bitwarden.com/) - Password manager.
 * [DaisyDisk](https://itunes.apple.com/us/app/daisydisk/id411643860) - Visual breakdown of your disk space.
-* [Divvy Window Manager](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12) - Window management for tiling your windows.
 * [ForkLift 4](https://binarynights.com/) - Best Finder replacement.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor for CPU, memory, HDD, battery, etc.
-* [iStat Mini](https://itunes.apple.com/us/app/istat-mini/id927292435?mt=12) - Mini version of iStat Menus.
 * [Magnet](https://itunes.apple.com/us/app/magnet/id441258766) - Window arrangement app.
-* [Noizio](https://itunes.apple.com/us/app/noizio/id928871589) - App that creates ambient sounds of coffee shop, rain, ocean, etc.
 * [NTFS for Mac](https://ntfsformac.tuxera.com/) - Write to NTFS volumes from MacOS.
-* [Parallels](http://www.parallels.com/) - Run other OSes as virtual machines.
 
 ## Windows OS ##
 
@@ -151,12 +138,10 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 * [Fishshell](https://fishshell.com/) - A smart and user-friendly command line
 shell for macOS, Linux, and the rest of the family.
-* [Heroku Toolbelt](https://toolbelt.heroku.com/) - Deploy your apps to Heroku.
 * [Homebrew](http://brew.sh/) - Mac package manager.
-* [iTerm2](http://www.iterm2.com/) - Terminal alternative.
-* [iTerm2 Color Schemes](http://iterm2colorschemes.com/) - Make your iTerm look pretty.
 * [Oh my fish](https://github.com/oh-my-fish/oh-my-fish) - A fish shell framework.
 * [rbenv](https://github.com/rbenv/rbenv) - Manage your rubies.
+* [WezTerm](https://wezterm.org/) - a powerful cross-platform terminal emulator and multiplexer, written in Rust.
 
 ### Version Control
 
