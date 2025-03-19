@@ -17,10 +17,6 @@ A list of the best software for Mac, Windows, Ubuntu Linux, Android, Software De
 
 I use Mac most of the time now, so this list is rather extensive.
 
-### Create a bootable USB
-
-* [How to make you own bootable OS X 10.11 El Capitan USB install drive](http://arstechnica.com/apple/2015/09/how-to-make-your-own-bootable-os-x-10-11-el-capitan-usb-install-drive/)
-
 ### Cloud Storage, Sync, and Backup
 
 * [Google Backup & Sync](https://www.google.com/drive/download/backup-and-sync/) - Google's cloud service tied to your Gmail.
