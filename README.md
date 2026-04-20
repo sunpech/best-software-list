@@ -34,6 +34,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF reader and editor.
 * [balenaEtcher](https://www.balena.io/etcher/) - Flash  OS images to SD cards and USB drives, safely and easily.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
+* [Discord](https://discord.com/) - Group chat.
 * [Filezilla](https://filezilla-project.org/) - SFTP client.
 * [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) - Hidden lets you hide menu bar items to give your Mac a cleaner look.
 * [RustDesk](https://rustdesk.com/) - The fast open-source Remote Access and support software. I prefer this over [Teamviewer](https://www.teamviewer.com/en-us/).
@@ -62,8 +63,10 @@ I use Mac most of the time now, so this list is rather extensive.
 * [F.lux](http://justgetflux.com/) - Automatically adjust your computer screen to match lighting.
 * [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html) - Lets you configure your Logitech mouse buttons, keyboard keys, and touchpad to your preference, adjust your lights and webcams to always look your best.
 * [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
+* [Obsidian](https://obsidian.md/download) - The free and flexible app for your private thoughts.
 * [Slack](https://slack.com/) - Collaboration software for teams.
 * [Trello](https://trello.com/en-US) - Collaborative boards, lists, and cards.
+* [Zoom](https://www.zoom.com/) - Webcam and collaboration tools.
 
 ### Best Applications to Buy/Subscribe to
 
@@ -83,7 +86,9 @@ I use Mac most of the time now, so this list is rather extensive.
 This list is shorter. Many of the software available for Mac is also available on Windows.
 
 * [7 Zip](http://www.7-zip.org/) - Decompress zip/rar files.
-* [Microsoft Security Essentials](http://windows.microsoft.com/mse) - Antivirus/Antispyware security software.
+* [Chocolately](https://chocolatey.org/) - The Package Manager for Windows. Although you should probably be using [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/).
+* [Fox-it PDF Reader](https://www.foxit.com/pdf-reader/) - PDF reader.
+* [Microsoft Defender](https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals) - Professional-grade, always-on protection for you and your family’s data and devices - for work or life
 * [PDF-XChange Viewer](http://www.tracker-software.com) - Open PDFs.
 * [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/bb896653) - Monitor your system processes.
 * [Paint .Net](http://www.getpaint.net/) - Edit pictures/images.
