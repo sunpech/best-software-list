@@ -120,6 +120,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 * [Android Studio](https://developer.android.com/sdk/index.html) - Android SDK and official IDE.
 * [DiffMerge](http://www.sourcegear.com/diffmerge/) - Compare your files/directories.
+* [Google Antigravity](https://antigravity.google/) - Google's IDE.
 * [Notepad++](http://notepad-plus-plus.org/) - Text editor with more features on Windows.
 * [Sublime Text](http://www.sublimetext.com/) - Text editor.
 * [Visual Studio Code](https://code.visualstudio.com/download) - Quickly becoming my default code editor over Atom.io.
