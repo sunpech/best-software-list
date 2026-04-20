@@ -23,7 +23,7 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Cloud Storage, Sync, and Backup
 
-* [Google Backup & Sync](https://www.google.com/drive/download/backup-and-sync/) - Google's cloud service tied to your Gmail.
+* [Google Drive for Desktop](https://www.google.com/drive/download/) - Google's cloud service tied to your Gmail.
 * [OneDrive](https://onedrive.live.com/?invref=e8e0c21396a27dc4&invsrc=90) - Microsoft's cloud service.
 
 ### Internet
@@ -38,7 +38,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF reader and editor.
 * [balenaEtcher](https://www.balena.io/etcher/) - Flash  OS images to SD cards and USB drives, safely and easily.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
-* [EasyRes](http://easyresapp.com/) - A fast screen resolution switcher for Mac OS X with live animated previews.
 * [Filezilla](https://filezilla-project.org/) - SFTP client.
 * [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) - Hide menubar items.
 * [Rust Desk](https://rustdesk.com/) - The Fast Open-Source Remote Access and Support Software
@@ -48,8 +47,7 @@ I use Mac most of the time now, so this list is rather extensive.
 ### Audio and Video
 
 * [Handbrake](https://handbrake.fr/) - Edit/convert videos.
-* [Livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice.
-* [Serenity](https://itunes.apple.com/us/app/serenity/id1185371817) - Relaxing ambient sounds. A better paid version is Noizio.
+* [Streamlink](https://streamlink.github.io/) - Command-line utility that extracts streams from various services and pipes them into a video player of choice.
 * [Spotify](https://www.spotify.com/) - Music player.
 * [VLC Media Player](http://www.videolan.org/vlc/) - The best video/media player for any OS.
 
@@ -60,7 +58,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Giphy](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12) - Capture and create GIFs.
 * [Google Photos](https://photos.google.com/apps) - Google's photo storage.
 * [Krita](https://krita.org/en/) - Digital Painting.
-* [SketchUp](http://www.sketchup.com/products/sketchup-make) - 3D Drawing tool.
+* [SketchUp Free](https://app.sketchup.com/) - 3D Drawing tool (web-based).
 
 ### Productivity
 
@@ -68,7 +66,6 @@ I use Mac most of the time now, so this list is rather extensive.
 * [F.lux](http://justgetflux.com/) - Automatically adjust your computer screen to match lighting.
 * [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus) - Manage your Logitech devices.
 * [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
-* [Skitch](https://evernote.com/skitch/) - Edit your screenshot images.
 * [Slack](https://slack.com/) - Collaboration software for teams.
 * [Trello](https://trello.com/en-US) - Collaborative boards, lists, and cards.
 
@@ -106,12 +103,11 @@ This list is shorter. Many of the software available for Mac is also available o
 
 These are some of my favorite web-browser extensions that I use in Google Chrome and/or Firefox.
 
-* [1Password](https://agilebits.com/onepassword/extensions) - Password Manager and Secure Wallet.
+* [1Password](https://1password.com/downloads/browser-extension/) - Password Manager and Secure Wallet.
 * [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb) - Password manager extension for Bitwarden.
-* [Https Everywhere](https://www.eff.org/HTTPS-everywhere) - Secure your web browsing by forcing https.
 * [Keepa](https://keepa.com/) - Amazon price tracker.
 * [Privacy Badger](https://www.eff.org/privacybadger) - Blocks spying ads and invisible trackers.
-* [TCPIP Utils](http://www.tcpiputils.com/) - The ultimate online investigation tool!
+* [DNSlytics](https://dnslytics.com/) - Online DNS investigation tool.
 * [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=en) - Block unwanted content/ads in your browser.
 
 ## Software Development ##
@@ -130,7 +126,7 @@ This list includes development tools for both Mac and Windows. Also see [my dotf
 
 ### Database
 
-* [DBeaver](https://dbeaver.jkiss.org/) - Universal SQL Client
+* [DBeaver](https://dbeaver.io/) - Universal SQL Client
 * [Microsoft SQL Server Developer/Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - Microsoft's SQL Server Developer and Express.
 * [mySQL WorkBench](http://dev.mysql.com/downloads/workbench/) - SQL IDE for mySQL.
 * [pgAdmin](https://www.pgadmin.org/) - SQL IDE for Postgres.
@@ -164,7 +160,6 @@ shell for macOS, Linux, and the rest of the family.
 * [Cloudflare](https://www.cloudflare.com/)
 * [Github](https://github.com/) - Host public/private repos here.
 * [Netlify](https://www.netlify.com/) - Deploy projects here for hosting.
-* [Visual Studio color schemes](http://studiostyl.es/)
 * [Visual Studio wallpapers](http://visualstudiowallpapers.com/)
 
 ## Ubuntu Linux ##
@@ -176,7 +171,7 @@ My current favorite flavor of Linux is [Xubuntu](http://xubuntu.org/), but I als
 ### Create a bootable USB
 * [How to create a bootable USB stick on OS X](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx)
 * [How to create a bootable USB stick on Windows](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows)
-* [Etcher](https://etcher.io/) - Flash OS images to SD cards & USB drives, safely and easily.
+* [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives, safely and easily.
 
 ### exFAT support
 
@@ -217,9 +212,9 @@ Also see: [SSH/OpenSSH/Configuring](https://help.ubuntu.com/community/SSH/OpenSS
 ### Other flavors
 
 * [Crunchbang++](https://crunchbangplusplus.org/)
-* [Tails](https://tails.boum.org/)
+* [Tails](https://tails.net/)
 * [Ubuntu Mate](https://ubuntu-mate.org/)
 ## Misc ##
 
 * [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - A software list I've contributed to.
-* [privacytools.io](https://privacytoolsio.github.io/privacytools.io/) - Recommended reading for security.
+* [privacytools.io](https://www.privacytools.io/) - Recommended reading for security.
