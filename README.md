@@ -55,6 +55,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Giphy](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12) - Capture and create GIFs.
 * [Google Photos](https://photos.google.com/apps) - Google's photo storage.
 * [Krita](https://krita.org/en/) - Digital Painting.
+* [Shottr](https://shottr.cc/) - Screenshot tool for designers. Goodbye Skitch.
 * [SketchUp Free](https://app.sketchup.com/) - 3D Drawing tool (web-based).
 
 ### Productivity
