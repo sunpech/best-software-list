@@ -31,11 +31,13 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Miscellaneous and Utilities
 
+* [Aerial](https://aerialscreensaver.github.io/) - The Apple TV screensaver, on your Mac.
 * [Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF reader and editor.
 * [balenaEtcher](https://www.balena.io/etcher/) - Flash  OS images to SD cards and USB drives, safely and easily.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
 * [Discord](https://discord.com/) - Group chat.
 * [Filezilla](https://filezilla-project.org/) - SFTP client.
+* [Fliqlo](https://fliqlo.com/screensaver/) - Turn your Mac/Windows into a Flip Clock.
 * [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) - Hidden lets you hide menu bar items to give your Mac a cleaner look.
 * [RustDesk](https://rustdesk.com/) - The fast open-source Remote Access and support software. I prefer this over [Teamviewer](https://www.teamviewer.com/en-us/).
 * [Unarchiver](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) - Decompress zip/rar files.
