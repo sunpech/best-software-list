@@ -62,11 +62,12 @@ I use Mac most of the time now, so this list is rather extensive.
 
 ### Productivity
 
-* [Alfred App](https://www.alfredapp.com/) - Type what you need or what you want to do.
+* [Alfred App](https://www.alfredapp.com/) - Type what you need or what you want to do. *(I've switched to use Raycast now)*.
 * [F.lux](http://justgetflux.com/) - Automatically adjust your computer screen to match lighting.
 * [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html) - Lets you configure your Logitech mouse buttons, keyboard keys, and touchpad to your preference, adjust your lights and webcams to always look your best.
 * [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal.
 * [Obsidian](https://obsidian.md/download) - The free and flexible app for your private thoughts.
+* [Raycast](https://www.raycast.com/) - A collection of powerful productivity tools all within an extendable launcher. Fast, ergonomic and reliable.
 * [Slack](https://slack.com/) - Collaboration software for teams.
 * [Trello](https://trello.com/en-US) - Collaborative boards, lists, and cards.
 * [Zoom](https://www.zoom.com/) - Webcam and collaboration tools.
