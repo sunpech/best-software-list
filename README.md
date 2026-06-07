@@ -34,6 +34,7 @@ I use Mac most of the time now, so this list is rather extensive.
 * [Aerial](https://aerialscreensaver.github.io/) - The Apple TV screensaver, on your Mac.
 * [Adobe Acrobat Reader](https://get.adobe.com/reader/) - PDF reader and editor.
 * [balenaEtcher](https://www.balena.io/etcher/) - Flash  OS images to SD cards and USB drives, safely and easily.
+* [Better Display Pro](https://betterdisplay.pro/) - Custom resolutions, XDR/HDR extra brightness, virtual screens, Picture in Picture, soft disconnect, configuration and EDID overrides, DDC control, color mode selection, syncing, layout protection, and more.
 * [Calibre](http://calibre-ebook.com/) - One stop solution to e-book needs.
 * [Discord](https://discord.com/) - Group chat.
 * [Filezilla](https://filezilla-project.org/) - SFTP client.
